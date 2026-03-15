@@ -1,0 +1,18 @@
+Category,Key Indicators,Data Sources
+Biological Age,"Epigenetic age, DNA methylation, telomere length","Lab test, wearables, AI models"
+Metabolic Health,"Fasting glucose, insulin, HbA1c, HOMA-IR","Lab test, wearables"
+Cardiovascular Health,"LDL, HDL, triglycerides, blood pressure, ApoB","Lab test, vitals"
+Inflammation,"CRP, IL-6, homocysteine",Lab test
+Liver/Kidney Function,"ALT, AST, GGT, Creatinine, eGFR",Lab test
+Hormonal Health,"Cortisol, testosterone, IGF-1, TSH, Vitamin D",Lab test
+Body Composition,"Body fat %, lean mass, VO2 Max, waist-to-height ratio","Smart scale, wearables"
+Physical Activity,"Steps/day, active minutes, sedentary time","Wearables, fitness logs"
+Sleep Quality,"Sleep duration, deep sleep %, HRV, sleep efficiency","Wearables, sleep monitors"
+Nutrition,"Calorie/macronutrient intake, fasting, sugar levels","Nutrition app, self-reported intake, Calo integration"
+Mental Wellbeing,"PHQ-9, GAD-7, mood tracking, HRV (stress)","Questionnaires, wearables"
+Substance Use,"Smoking status, alcohol use","Self-report, surveys"
+Preventive Screenings,"Cancer screenings, CAC score, frailty index","EHR, integrated screening data"
+Engagement Metrics,"App logins, coaching participation, adherence",Digital platform analytics
+Token Economy,"Token issuance, redemption, staking rates","Blockchain wallet, smart contract tracker"
+Behavioral Twin,"Engagement prediction, behavioral stage, nudging response","AI behavior engine, app activity logs"
+Value-Based Score,"Outcomes per dollar, risk-adjusted savings, improvement index","Claims data, health improvement score, provider outcome data"
