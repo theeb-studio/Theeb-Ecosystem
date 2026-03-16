@@ -83,6 +83,11 @@ Data assets (de-identified) added to shared intelligence layer
 | Outcomes / VBP contract | TVG — VBH Company |
 | Clinical care / patient program | THDG — Welunion |
 | Pharmacy / dispensing | THDG — TAP Pharmacy |
+| Clinical AI / decision support | TTG — CII |
+| Medical documentation AI | TTG — CII |
+| Real world evidence platform | TTG — CII (with TKG Nama CRO) |
+| Population health intelligence | TTG — CII |
+| Health data infrastructure | TTG — CII |
 
 > The lead entity is the **single point of contact for the client** — even when multiple entities are delivering simultaneously.
 
@@ -239,7 +244,7 @@ Full menu of ecosystem capabilities available for orchestration:
 | Outcomes measurement (PROMs) | TVG — VBH Company |
 | Cost-of-care analytics | TVG — VBH Company |
 | Value-based contract design | TVG — VBH Company |
-| Population health analytics | TVG — VBH Company |
+| Population health analytics | TVG — VBH Company + TTG — CII |
 
 ### Clinical Delivery
 
@@ -251,8 +256,25 @@ Full menu of ecosystem capabilities available for orchestration:
 | CDM (chronic disease management) | THDG — Welunion / IHH |
 | Maternal / doula care | THDG — MOB / Welunion |
 | Mental health services | THDG — Clinical Ventures |
+| Interventional radiology procedures | THDG — Dawali Vascular (CLV-03) |
+| Specialty co-clinic consultations | THDG — CoClinics |
 | Pharmacy and dispensing | THDG — TAP Pharmacy |
 | Real-world patient population (research sites) | THDG — Welunion network |
+
+### Clinical Intelligence Infrastructure (TTG)
+
+| Capability | Entity |
+|-----------|--------|
+| Clinical evidence retrieval (point of care) | TTG — CII (Layer 1+2) |
+| AI clinical agents (diagnosis, treatment, risk) | TTG — CII (Layer 2) |
+| Clinical decision support (EHR-embedded) | TTG — CII (Layer 3) |
+| Automated medical documentation (Arabic + English) | TTG — CII (Layer 4) |
+| Revenue cycle intelligence (pre-claim scoring) | TTG — CII (Layer 5) |
+| Longitudinal patient intelligence profiles | TTG — CII (Layer 6) |
+| Real world evidence generation | TTG — CII (Layer 7) |
+| Saudi/GCC payer-specific coding (CCHI, Bupa, Tawuniya) | TTG — CII |
+| Population-level disease burden mapping | TTG — CII |
+| Pharmaceutical market access data packages | TTG — CII + TKG Nama CRO |
 
 ---
 
