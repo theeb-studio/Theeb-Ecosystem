@@ -18,7 +18,7 @@ The Theeb Ecosystem is the **umbrella architecture** that contains all strategic
 
 It is NOT a single company. It is NOT a holding company in the legal sense. It is a **strategic architecture** — a framework for organizing, building, and growing interconnected companies across three distinct domains of the healthcare economy.
 
-### The Three Strategic Domains
+### The Four Strategic Domains
 
 ```
 THEEB ECOSYSTEM
@@ -31,10 +31,16 @@ THEEB ECOSYSTEM
 │             │  The financial infrastructure of healthcare
 │             │  RCM · Risk · Value-Based Contracts · Intelligence
 │
-└── 03 — THDG │  THEEB HEALTH CARE DELIVERY GROUP
-              │  The delivery of healthcare
-              │  Clinics · Home Care · Pharmacy · MSO · Tech
+├── 03 — THDG │  THEEB HEALTH CARE DELIVERY GROUP
+│             │  The delivery of healthcare
+│             │  Clinics · Home Care · Pharmacy · MSO
+│
+└── 04 — TTG  │  THEEB TECHNOLOGY GROUP
+              │  The intelligence infrastructure of healthcare
+              │  Clinical AI · Agent Systems · Data Platforms · RWE
 ```
+
+**The progression reads:** Know → Value → Deliver → **Technologize**
 
 ### Key Architectural Principle
 
@@ -43,10 +49,10 @@ Always distinguish between these five levels. Never collapse them:
 | Level | Example |
 |-------|---------|
 | **Ecosystem** | Theeb Ecosystem |
-| **Strategic Group** | TKG / TVG / THDG |
-| **Company** | Waraqa / Integra RCM / Welunion |
-| **Platform** | Evidence Platform / Intelligence Layer / Welunion Tech |
-| **Clinical Venture** | Mental Health Pediatric Clinic / Adult Mental Health |
+| **Strategic Group** | TKG / TVG / THDG / TTG |
+| **Company** | Waraqa / Integra RCM / Welunion / CII |
+| **Platform** | Evidence Platform / Intelligence Layer / Welunion Tech / CII Stack |
+| **Clinical Venture** | Mental Health Pediatric Clinic / Dawali Vascular |
 
 > Each group may eventually contain 10+ companies. The current number of companies does NOT represent the final structure.
 
@@ -266,32 +272,88 @@ Clinical guidelines from TKG Evidence Platform → inform Welunion care pathways
 
 ---
 
-## PART FIVE — CROSS-GROUP SYNERGY ARCHITECTURE
+## PART FIVE — THEEB TECHNOLOGY GROUP (TTG)
+
+### Identity
+TTG builds the **intelligence infrastructure that the Theeb Ecosystem — and Saudi healthcare — runs on.** TTG is not a product company or an app studio. It is the AI infrastructure group — building the clinical intelligence systems that every other group depends on, and that external health systems, insurers, and government entities pay to access.
+
+TTG applies the infrastructure narrative to healthcare: AWS built the layer websites run on. Nvidia built the layer AI runs on. TTG builds the layer that clinical decisions, revenue cycles, and population health analytics run on.
+
+### Flagship Entity
+
+```
+TTG
+└── TTG-CII │ Clinical Intelligence Infrastructure (CII)
+             │ Agent-based AI platform — seven layers from clinical evidence
+             │ to real world evidence generation — sitting above existing
+             │ EHR/HIS systems as an intelligence layer
+             │ Entry point: Clinical Evidence Assistant (physician workflow)
+             │ Status: In development
+```
+
+### CII — Seven-Layer Architecture
+
+```
+[7] Real World Evidence Generation        ← Population output layer
+[6] Patient Intelligence Layer            ← Longitudinal patient model
+[5] Revenue Cycle Intelligence            ← Financial performance layer
+[4] Automated Medical Documentation      ← Documentation and coding
+[3] Clinical Decision Support            ← Workflow integration
+[2] AI Clinical Agents                   ← Reasoning and recommendation
+[1] Clinical Evidence Infrastructure     ← Knowledge foundation
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Existing EHR / HIS / Billing          ← Infrastructure CII sits above
+```
+
+### TTG Cross-Group Role
+
+CII is the shared intelligence infrastructure for all three groups:
+
+```
+TKG  →  seeds CII evidence layer (guidelines, research, RWE)
+TVG  →  connects CII to RCM intelligence and VBH outcomes
+THDG →  provides clinical encounter data; receives clinical agent support
+CII  →  amplifies all three groups simultaneously; serves external market
+```
+
+### TTG Strategic Position
+TTG is the **intelligence operating system** of Saudi healthcare. Its moat: real world evidence from local populations (irreplaceable), ecosystem integration depth (switching costs compound over time), and sovereign governance (no foreign competitor can replicate the mandate).
+
+**Detail:** `04-TTG/00-TTG-GROUP/_INDEX.md` | `04-TTG/01-TTG-CII/_INDEX.md`
+
+---
+
+## PART SIX — CROSS-GROUP SYNERGY ARCHITECTURE
 
 ### The Flywheel
 
 ```
 TKG produces clinical knowledge (guidelines, CME, evidence)
         ↓
-THDG applies that knowledge at the point of care
+TTG CII ingests knowledge → trains clinical agents → deploys at point of care
+        ↓
+THDG applies intelligence at the point of care → generates encounter data
         ↓
 TVG measures what THDG delivers (cost, outcomes, quality)
         ↓
-TVG data validates TKG's guidelines and generates new research
+TVG data → CII population analytics → validates TKG guidelines → new research
         ↓
-TKG publishes the research → improves the guidelines → [repeat]
+TKG publishes the research → improves the guidelines → [repeat, accelerating]
 ```
 
 ### Key Cross-Group Connections
 
 | Connection | From | To | Mechanism |
 |-----------|------|----|-----------|
-| Clinical data | THDG | TVG | Integra RCM embedded in Welunion billing |
-| Guidelines → Practice | TKG | THDG | Evidence Platform feeds Welunion care pathways |
+| Clinical knowledge seeding | TKG | TTG CII | Guidelines and research feed CII evidence layer |
+| Guidelines → Practice | TKG + TTG | THDG | CII clinical agents deliver TKG evidence at point of care |
+| Clinical data | THDG | TTG CII | Encounter data trains CII models |
+| Clean documentation → Claims | TTG CII | TVG | CII documentation AI feeds Integra RCM |
+| Outcomes → VBH | TTG CII | TVG VBH | CII patient intelligence feeds VBH contracts |
+| Population analytics | TTG CII | TVG MGA | Actuarial-grade data for insurance product design |
 | CME + Malpractice bundle | TKG Nama Academy | TVG MGA | Insurance product + CME fulfillment |
-| PROMs + outcomes | THDG | TVG VBH Company | Patient-reported outcomes from Welunion patients |
-| Research patients | THDG | TKG CRO | Welunion patient base as CRO recruitment pool |
-| Pharmacy data | THDG TAP | TVG Layer 3 | Prescription analytics in population health model |
+| Research patients | THDG + TTG | TKG CRO | CII cohort identification for Nama CRO recruitment |
+| Pharmacy data | THDG TAP | TVG + TTG | Prescription analytics in population health model |
 
 ---
 
@@ -308,6 +370,7 @@ TKG publishes the research → improves the guidelines → [repeat]
 | Theeb Knowledge Group | TKG |
 | Theeb Value Group | TVG |
 | Theeb Health Delivery Group | THDG |
+| Theeb Technology Group | TTG |
 
 ### Entity Codes
 | Entity | Code |
@@ -325,6 +388,9 @@ TKG publishes the research → improves the guidelines → [repeat]
 | Union Clinics | THDG-UCL |
 | TAP Pharmacy | THDG-TAP |
 | Clinical Ventures | THDG-CLV |
+| Dawali Vascular Centers | THDG-CLV-03 |
+| CoClinics | THDG-COC |
+| Clinical Intelligence Infrastructure | TTG-CII |
 
 ### Domain Codes
 | Domain | Code |
@@ -360,15 +426,22 @@ Theeb-Ecosystem/
 │   └── 03-TVG-VBH-Company/   ← formerly "Majour"
 ├── 03-THDG/
 │   ├── 00-THDG-GROUP/        ← Group strategy
-│   ├── 01-THDG-Welunion/     ← FLAGSHIP (formerly position 05)
+│   ├── 01-THDG-Welunion/     ← FLAGSHIP
 │   ├── 02-THDG-Integrative-Health/
 │   ├── 03-THDG-Union-Clinics/
 │   ├── 04-THDG-TAP-Pharmacy/
-│   └── 05-THDG-Clinical-Ventures/
-└── 04-SHARED/
-    ├── Market-Intelligence/
-    ├── Regulatory-Library/
-    └── Reference-Companies/
+│   ├── 05-THDG-Welunion/
+│   ├── 06-THDG-Clinical-Ventures/
+│   │   └── CLV-03-Dawali-Vascular/
+│   └── 07-THDG-CoClinics/
+├── 04-TTG/                   ← NEW FOURTH PILLAR
+│   ├── 00-TTG-GROUP/         ← Group strategy
+│   └── 01-TTG-CII/           ← FLAGSHIP (Clinical Intelligence Infrastructure)
+├── 05-SHARED/
+│   ├── Market-Intelligence/
+│   ├── Regulatory-Library/
+│   └── Reference-Companies/
+└── 06-ARCHIVE/
 ```
 
 ---

@@ -92,7 +92,13 @@
       "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\د. ذيب\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages'' -ErrorAction SilentlyContinue | Select-Object Name\")",
       "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\د. ذيب\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe'' -Recurse -Filter ''*.exe'' | Select-Object FullName\")",
       "Bash(powershell.exe -Command \"Add-Type -AssemblyName System.Runtime.WindowsRuntime; [Windows.Media.Ocr.OcrEngine, Windows.Foundation, ContentType=WindowsRuntime] | Out-Null; Write-Host ''WinRT OCR available''; [Windows.Media.Ocr.OcrEngine]::AvailableRecognizerLanguages | ForEach-Object { Write-Host \\(''Lang: '' + [string]\\($_.DisplayName\\)\\) }\")",
-      "Bash(powershell.exe -ExecutionPolicy Bypass -File \"C:\\\\Temp\\\\ocr_pdf.ps1\")"
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File \"C:\\\\Temp\\\\ocr_pdf.ps1\")",
+      "Bash(mkdir -p \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian\")",
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/app.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/appearance.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/core-plugins.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/graph.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/workspace.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")"
     ]
   }
 }
