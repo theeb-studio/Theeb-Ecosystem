@@ -70,7 +70,29 @@
       "Bash(bash \"/c/Users/FB19~1/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/a445d107-43df-40df-bd8c-339c9335badb/d7831a79-2a48-4860-b5f2-745750830434/skills/pptx/run.sh\")",
       "Bash(ls '/c/Program Files \\(x86\\)/LibreOffice/')",
       "Bash(PPTX_WIN=\"C:/Users/FB19~1/Desktop/Theeb-Ecosystem/Theeb-Ecosystem-Presentation.pptx\")",
-      "Bash(bash -c \"cd ''$PPTXDIR'' && ''$NODE'' check_pptx.js ''$PPTX_WIN''\")"
+      "Bash(bash -c \"cd ''$PPTXDIR'' && ''$NODE'' check_pptx.js ''$PPTX_WIN''\")",
+      "Bash(python3 -c \"import pytesseract; import pdf2image; print\\(''both available''\\)\")",
+      "Bash(py --version)",
+      "Bash(py3 --version)",
+      "Bash(ls /c/Users/*/AppData/Local/Programs/Python/)",
+      "Bash(powershell.exe -Command \":*)",
+      "Bash(powershell.exe -Command \"Get-ItemProperty ''HKLM:\\\\SOFTWARE\\\\Python\\\\PythonCore'' -ErrorAction SilentlyContinue\")",
+      "Bash(powershell.exe -Command \"Test-Path ''HKLM:\\\\SOFTWARE\\\\Python''\")",
+      "Bash(PYTHON=\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\")",
+      "Bash(\"$PYTHON\" --version)",
+      "Bash(PYTHON=\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"$PYTHON\" -m pip install pdf2image pytesseract pillow)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install pdf2image pytesseract pillow)",
+      "Bash(winget install:*)",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Program Files'' -Filter ''tesseract.exe'' -Recurse -ErrorAction SilentlyContinue -Depth 5 | Select-Object FullName\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\'' -Filter ''tesseract.exe'' -Recurse -ErrorAction SilentlyContinue -Depth 4 | Select-Object FullName\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Program Files'' -Filter ''tesseract.exe'' -Recurse -ErrorAction SilentlyContinue | ForEach-Object { Write-Host $_.FullName }\")",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Program Files\\\\Git\\\\mingw64\\\\bin\\\\pdftotext.exe'' -layout ''C:\\\\Users\\\\د. ذيب\\\\Dropbox\\\\Server\\\\scan-compressed.pdf'' ''C:\\\\Temp\\\\scan_text.txt''; exit 0\")",
+      "Bash(pdftotext -layout /c/Temp/scan.pdf /c/Temp/scan_text.txt)",
+      "Bash(echo \"Exit: $?\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\د. ذيب\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages'' -ErrorAction SilentlyContinue | Select-Object Name\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\د. ذيب\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe'' -Recurse -Filter ''*.exe'' | Select-Object FullName\")",
+      "Bash(powershell.exe -Command \"Add-Type -AssemblyName System.Runtime.WindowsRuntime; [Windows.Media.Ocr.OcrEngine, Windows.Foundation, ContentType=WindowsRuntime] | Out-Null; Write-Host ''WinRT OCR available''; [Windows.Media.Ocr.OcrEngine]::AvailableRecognizerLanguages | ForEach-Object { Write-Host \\(''Lang: '' + [string]\\($_.DisplayName\\)\\) }\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File \"C:\\\\Temp\\\\ocr_pdf.ps1\")"
     ]
   }
 }
