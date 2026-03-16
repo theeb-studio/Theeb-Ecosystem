@@ -38,6 +38,27 @@ Independent Clinical Ventures are **specialized clinical entities** that operate
 - Relationship to Welunion: May operate as Welunion's mental health division or remain independent
 - Data feed: TVG VBH Company (PHQ-9, mental health outcomes, CDM mental health track)
 
+### CLV-03 — Dawali Vascular Centers *(MSO Partnership)*
+- Specialty: Interventional radiology — catheter-based vascular and endovascular procedures
+- Services: Varicose veins, uterine fibroid embolization (UFE), BPH/prostate artery embolization, pelvic congestion, diabetic foot limb salvage, dialysis catheter management, back pain interventions
+- Model: MSO partnership — physicians own the clinical brand (دوالي); Theeb provides development and operations
+- Current operations: 3 existing branches; expansion plan to 13 branches nationally
+- Key financials: SAR 122.1M investment · SAR 138.7M revenue at 70% capacity · IRR 33% · NPV SAR 209.9M · Payback 3.11 years
+- Integration: Core node in the Welunion ↔ CoClinics ↔ Dawali "Drawer Model" referral pathway
+- Source document: `Dropbox/Server/scan-compressed.pdf` (full feasibility study)
+- Detail file: `CLV-03-Dawali-Vascular/_INDEX.md`
+
+---
+
+## Integration Architecture
+
+The three THDG front-line entities (Welunion, CoClinics, Dawali) operate as an integrated referral drawer:
+- **Level 1 — Welunion:** Primary care, CDM, digital health — detects and refers up
+- **Level 2 — CoClinics:** Shared specialty clinics — intermediate complexity, refers up or returns down
+- **Level 3 — Dawali:** Interventional procedures — highest complexity, returns patients to Welunion for follow-up
+
+→ Full integration map: `THDG-CLV-INT-Service-Integration-Map.md`
+
 ---
 
 ## Future Ventures (Anticipated)

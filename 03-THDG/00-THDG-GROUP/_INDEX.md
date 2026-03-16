@@ -24,12 +24,18 @@ THDG delivers **actual healthcare services** to patients and communities. It is 
 | THDG-UCL | Union Clinics | Clinic network asset → becomes Welunion clinic network layer | Concept → Build |
 | THDG-TAP | TAP Pharmacy | In-clinic dispensing network | Active (2 locations) |
 
+### Shared Specialty Platform
+| Code | Entity | Role | Status |
+|------|--------|------|--------|
+| THDG-COC | **CoClinics** | Shared-space specialist clinic model — intermediate complexity layer | Active |
+
 ### Independent Clinical Ventures
-| Code | Entity | Model |
-|------|--------|-------|
-| THDG-CLV | Mental Health — Pediatric Co-Clinic | Flexible ownership |
-| THDG-CLV | Mental Health — Adult Clinic | Flexible ownership |
-| THDG-CLV | [Future specialty ventures] | Flexible ownership |
+| Code | Entity | Model | Status |
+|------|--------|-------|--------|
+| THDG-CLV-01 | Mental Health — Pediatric Co-Clinic | Flexible ownership | Active |
+| THDG-CLV-02 | Mental Health — Adult Clinic | Flexible ownership | Active (Laban, Riyadh) |
+| THDG-CLV-03 | **Dawali Vascular Centers** | MSO partnership (physicians own brand) | Active (3 branches → 13) |
+| THDG-CLV | [Future specialty ventures] | Flexible ownership | Pipeline |
 
 ---
 
@@ -80,12 +86,13 @@ Ownership may be:
 ## Cross-Group Connections
 | Connection | THDG Entity | Goes To |
 |-----------|-------------|---------|
-| Claims and coding data | Welunion / IHH | TVG Integra RCM |
-| Patient PROMs | Welunion | TVG VBH Company |
+| Claims and coding data | Welunion / IHH / CoClinics / Dawali | TVG Integra RCM |
+| Patient PROMs + procedure outcomes | Welunion / CoClinics / Dawali | TVG VBH Company |
 | Prescription data | TAP Pharmacy | TVG Layer 3 analytics |
-| CME needs for physicians | Welunion medical staff | TKG Nama Academy |
-| Clinical guidelines | Welunion care pathways | TKG Evidence Platform |
-| Research patients | Welunion patient base | TKG Nama CRO |
+| CME needs for physicians | Welunion / CoClinics / Dawali medical staff | TKG Nama Academy |
+| Clinical guidelines | Welunion / Dawali care pathways | TKG Evidence Platform |
+| Research patients | Welunion / Dawali patient base | TKG Nama CRO |
+| Referral integration | Welunion ↔ CoClinics ↔ Dawali | THDG-CLV-INT-Service-Integration-Map.md |
 
 ## Rule: Strategy here, Operations in Server.
 
