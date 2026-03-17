@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md",
+                "file": "04-TTG/01-TTG-CII/_INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECOSYSTEM-ORCHESTRATION-MODEL"
+              "title": "_INDEX"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theeb-Ecosystem-Vault/02 — TVG VALUE GROUP/Integra-RCM/TVG-RCM Current State Assessment.md",
+                "file": "04-TTG/01-TTG-CII/_INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TVG-RCM Current State Assessment"
+              "title": "Backlinks for _INDEX"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theeb-Ecosystem-Vault/02 — TVG VALUE GROUP/Integra-RCM/TVG-RCM Current State Assessment.md",
+                "file": "04-TTG/01-TTG-CII/_INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TVG-RCM Current State Assessment"
+              "title": "Outgoing links from _INDEX"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theeb-Ecosystem-Vault/02 — TVG VALUE GROUP/Integra-RCM/TVG-RCM Current State Assessment.md",
+                "file": "04-TTG/01-TTG-CII/_INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TVG-RCM Current State Assessment"
+              "title": "Outline of _INDEX"
+            }
+          },
+          {
+            "id": "3e9074597bdca6a1",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +190,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "074f409556507e1e",
+  "active": "3e9074597bdca6a1",
   "lastOpenFiles": [
+    "04-TTG/00-TTG-GROUP/_INDEX.md",
+    "00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md",
     "00-TAK-ROOT/_INDEX.md",
     "03-THDG/06-THDG-Clinical-Ventures/CLV-03-Dawali-Vascular/_INDEX.md",
     "Untitled",
