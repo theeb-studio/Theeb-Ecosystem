@@ -34,7 +34,7 @@
     {
       "type": "anthropic",
       "id": "anthropic",
-      "apiKey": "2030"
+      "apiKey": ""
     },
     {
       "type": "openai",
@@ -239,7 +239,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-3-flash-preview (plan)",
+  "chatModelId": "gpt-5.2 (plan)",
   "applyModelId": "claude-opus-4.5",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
