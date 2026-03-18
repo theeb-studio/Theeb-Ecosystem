@@ -264,7 +264,7 @@ WELUNION
 ```
 Welunion clinics → generate claims data → feeds TVG Integra RCM (Layer 1)
 TAP Pharmacy     → prescription data   → feeds TVG analytics (Layer 3)
-Integrative Health → home care + CDM    → PROMs data to TVG Majour
+Integrative Health → home care + CDM    → PROMs data to TVG VBH Co
 Mental Health ventures → outcome data   → TVG value-based contracts
 Welunion patients → CME training need  → TKG Nama Academy
 Clinical guidelines from TKG Evidence Platform → inform Welunion care pathways

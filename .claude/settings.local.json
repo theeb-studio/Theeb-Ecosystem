@@ -163,7 +163,11 @@
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install \"markitdown[pptx]\" -q)",
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m markitdown \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pptx\")",
       "Bash(cp \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pptx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/2026-STRATEGIC-PITCH/\")",
-      "Bash(cp \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/2026-STRATEGIC-PITCH/\")"
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/2026-STRATEGIC-PITCH/\")",
+      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/\"*/)",
+      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/\"*/)",
+      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/03-THDG/\"*/)",
+      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/04-TTG/\"*/)"
     ]
   }
 }

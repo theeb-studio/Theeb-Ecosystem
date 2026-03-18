@@ -150,7 +150,7 @@ This creates a **structural underwriting advantage** — TVG can offer fairer pr
 ---
 
 ### LAYER 3 — VALUE INTELLIGENCE
-**Entity: TVG-MAJ (Majour Platform — Intelligence Module)**
+**Entity: TVG-VBH (VBH Co Platform — Intelligence Module)**
 **Timeline: 2026–2028 — Parallel to Layer 2**
 
 #### What It Does
@@ -209,7 +209,7 @@ Without Layer 3, value-based contracts are theoretical. With it, contracts becom
 ---
 
 ### LAYER 4 — OUTCOME-BASED CONTRACTING PLATFORMS
-**Entity: TVG-MAJ (Majour Platform — Contracting Module)**
+**Entity: TVG-VBH (VBH Co Platform — Contracting Module)**
 **Timeline: 2028+ — When Layers 1–3 are established**
 
 #### What It Does
@@ -271,7 +271,7 @@ TVG does not replace NPHIES. It operates **above NPHIES** — using NPHIES claim
 │                   │    │                     │    │                  │
 │ Hospitals         │    │  Layer 1: Integra   │    │ Insurance Cos.   │
 │ Clinics           │    │  Layer 2: MGA       │    │ Self-insured     │
-│ THDG entities     │    │  Layer 3: Majour    │    │ Employers        │
+│ THDG entities     │    │  Layer 3: VBH Co    │    │ Employers        │
 │ Pharma networks   │    │  Layer 4: Contracts │    │ MOH programs     │
 └──────────────────┘    └─────────────────────┘    └──────────────────┘
          ▲                         ▲                         ▲
@@ -358,7 +358,7 @@ Key milestones:
 - Integra RCM at 15+ hospitals and specialty centers
 - MGA license secured from SAMA
 - AR-DRG readiness engagements across the Integra client base
-- Majour Intelligence beta with 3 pilot clients (provider + payer + employer)
+- VBH Co Intelligence beta with 3 pilot clients (provider + payer + employer)
 - CHI bundle alignment certified
 
 ### Phase 2 — KSA Depth (2027–2029)
@@ -367,7 +367,7 @@ Key milestones:
 Key milestones:
 - First live outcome-based bundled payment contracts (CHI priority conditions)
 - MGA book of business: 3+ insurance carrier partners
-- Majour PROMs: 10,000+ active patient outcome records
+- VBH Co PROMs: 10,000+ active patient outcome records
 - First shared savings distribution to provider network clients
 - National contract intelligence: TVG data cited in CHI/NCHI policy documents
 
@@ -398,7 +398,7 @@ Key milestones:
 ```
 ┌─────────────────────────────────────────────────┐
 │  APPLICATIONS                                   │
-│  Integra · Nexus MGA · Majour Intel · Contracts │
+│  Integra · Nexus MGA · VBH Co Intel · Contracts │
 ├─────────────────────────────────────────────────┤
 │  ANALYTICS ENGINE                               │
 │  Cost modeling · Outcome prediction · Risk      │
@@ -450,7 +450,7 @@ Running Integra RCM as a live, revenue-generating service.
 Team: RCM specialists, coders, denial management analysts, client success.
 
 **Mode 2 — Product Development**
-Building Majour Intelligence and the MGA infrastructure.
+Building VBH Co Intelligence and the MGA infrastructure.
 Team: Product managers, data engineers, AI/ML engineers, FHIR architects.
 
 **Mode 3 — Market Development**
