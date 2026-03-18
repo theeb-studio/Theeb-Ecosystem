@@ -106,7 +106,13 @@
       "Bash(powershell.exe -NoProfile -Command 'while \\(Test-Path \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\"\\) { Remove-Item \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\" -Force; Start-Sleep -Milliseconds 100 }; & \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" status --short')",
       "Bash(powershell.exe -NoProfile -Command 'while \\(Test-Path \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\"\\) { Remove-Item \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\" -Force; Start-Sleep -Milliseconds 100 }; & \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" reset HEAD .claude/settings.local.json \"\"04-TTG/01-TTG-CII/_INDEX1.md\"\"; Write-Host \"\"RESET OK\"\"')",
       "Bash(powershell.exe -NoProfile -Command ':*)",
-      "Bash(powershell.exe -NoProfile -Command '& \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" push origin main 2>&1')"
+      "Bash(powershell.exe -NoProfile -Command '& \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" push origin main 2>&1')",
+      "Bash(export PATH=\"/c/Users/FB19~1/AppData/Local/Microsoft/WinGet/Packages/OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe/node-v24.14.0-win-x64:$PATH\")",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Bash(node create_pilot_brief.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Pilot-Brief.docx\")",
+      "Bash(python scripts/office/validate.py \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Pilot-Brief.docx\")",
+      "Bash(node create_vision_overview.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Vision-Overview.docx\")"
     ]
   }
 }
