@@ -404,6 +404,20 @@ TKG publishes the research → improves the guidelines → [repeat, accelerating
 | Research | RES |
 | Clients | CLI |
 | Archive | ARC |
+| Strategic Pitch | STP |
+
+### Authoritative Pitch Deck (2026)
+
+The definitive external-facing expression of the 2026 Theeb Ecosystem strategy is:
+
+| File | Location | Format |
+|------|----------|--------|
+| **The Saudi Healthcare Chess Player** | `00-TAK-ROOT/2026-STRATEGIC-PITCH/` | PPTX + PDF |
+| **Chess Player Deck Content (AI-readable)** | `00-TAK-ROOT/2026-STRATEGIC-PITCH/THE_CHESS_PLAYER_DECK_CONTENT.md` | Markdown |
+
+> This deck supersedes `TKG-GROUP-PIT-Pitch-Deck-v1.pptx` as the authoritative pitch material.
+> All future AI analysis, NotebookLM uploads, and investor material alignment must prioritize
+> THE_CHESS_PLAYER_DECK_CONTENT.md as the definitive strategic narrative.
 
 ---
 

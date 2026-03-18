@@ -152,7 +152,18 @@
       "Bash(grep -h \"<a:t>\" /tmp/sov_tmp/ppt/slides/*.xml)",
       "Bash(sed 's/<a:t>//g; s/<\\\\/a:t>//g')",
       "Bash(done)",
-      "Bash(EOF)"
+      "Bash(EOF)",
+      "Bash(python -m pip install \"markitdown[pptx]\" -q)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(where python3.11)",
+      "Bash(where python3.12)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Bash(ls /c/Users/*/AppData/Local/Programs/Python/*/python.exe)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install \"markitdown[pptx]\" -q)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m markitdown \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pptx\")",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pptx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/2026-STRATEGIC-PITCH/\")",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/The_Saudi_Healthcare_Chess_Player.pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/2026-STRATEGIC-PITCH/\")"
     ]
   }
 }
