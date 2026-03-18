@@ -112,7 +112,16 @@
       "Bash(npm install:*)",
       "Bash(node create_pilot_brief.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Pilot-Brief.docx\")",
       "Bash(python scripts/office/validate.py \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Pilot-Brief.docx\")",
-      "Bash(node create_vision_overview.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Vision-Overview.docx\")"
+      "Bash(node create_vision_overview.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/SHAREABLE-CII-Vision-Overview.docx\")",
+      "Bash(node create_proposal.js \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/04-TTG/01-TTG-CII/CII-PILOT-PROPOSAL-v1.docx\")",
+      "Bash(grep -o \"\"text\"\":\"\"[^\"\"]*\"\" 'C:\\\\Users\\\\د. ذيب\\\\.claude\\\\projects\\\\C--Users--------Desktop-Theeb-Ecosystem\\\\e5c0cb20-35b3-467f-bbd6-221dd396eb13.jsonl')",
+      "Bash(pip install:*)",
+      "Bash(where python:*)",
+      "Bash(python -c \"from pypdf import PdfReader; print\\(''''ok''''\\)\")",
+      "Bash(python -m pip install pypdf)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install pypdf)",
+      "Bash(PY=\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\")",
+      "Bash(\"$PY\" -c \":*)"
     ]
   }
 }
