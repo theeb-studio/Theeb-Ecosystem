@@ -3,26 +3,37 @@
   "providers": [
     {
       "type": "anthropic-plan",
-      "id": "anthropic-plan"
+      "id": "anthropic-plan",
+      "oauth": {
+        "accessToken": "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",
+        "refreshToken": "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",
+        "expiresAt": 1773817123174
+      }
     },
     {
       "type": "openai-plan",
-      "id": "openai-plan"
+      "id": "openai-plan",
+      "oauth": {
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5MzQ0ZTY1LWJiYzktNDRkMS1hOWQwLWY5NTdiMDc5YmQwZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSJdLCJjbGllbnRfaWQiOiJhcHBfRU1vYW1FRVo3M2YwQ2tYYVhwN2hyYW5uIiwiZXhwIjoxNzc0NjUyNDE0LCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsiY2hhdGdwdF9hY2NvdW50X2lkIjoiYjYxY2RmNWEtYTJlNC00NTQwLWJmNzEtNTQxZTUzYWNjMDk0IiwiY2hhdGdwdF9hY2NvdW50X3VzZXJfaWQiOiJ1c2VyLUNEaWhsZUlGZHhVbVJrRURobDJSZUFITl9fYjYxY2RmNWEtYTJlNC00NTQwLWJmNzEtNTQxZTUzYWNjMDk0IiwiY2hhdGdwdF9jb21wdXRlX3Jlc2lkZW5jeSI6Im5vX2NvbnN0cmFpbnQiLCJjaGF0Z3B0X3BsYW5fdHlwZSI6ImZyZWUiLCJjaGF0Z3B0X3VzZXJfaWQiOiJ1c2VyLUNEaWhsZUlGZHhVbVJrRURobDJSZUFITiIsInVzZXJfaWQiOiJ1c2VyLUNEaWhsZUlGZHhVbVJrRURobDJSZUFITiJ9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJ0aGVlYkB0aGVlYi5zdHVkaW8iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZX0sImlhdCI6MTc3Mzc4ODQxMywiaXNzIjoiaHR0cHM6Ly9hdXRoLm9wZW5haS5jb20iLCJqdGkiOiJlZGEyNTFlNC01NGE5LTQyYTQtYmMwNi1jMTU0OGQwZGE0MTYiLCJuYmYiOjE3NzM3ODg0MTMsInB3ZF9hdXRoX3RpbWUiOjE3NzM3ODg0MDY2OTgsInNjcCI6WyJvcGVuaWQiLCJwcm9maWxlIiwiZW1haWwiLCJvZmZsaW5lX2FjY2VzcyJdLCJzZXNzaW9uX2lkIjoiYXV0aHNlc3NfQXBqTEtJdmhHcEZnN0xNWnFNeElraEQ3Iiwic2wiOnRydWUsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTA3NDAwNDQ1NTE2NjQwNTUxMDU3In0.wJjXrUC_LpJ0P79BEQXJ5hWbozmxfSAJkA7Nrm5mL3WziukMPYlE5MveZHw3cX431w5mGpjrvsIWihfTm3Zg4j_H0r7wZBygHObMp1uph8js3NQKhGLp0Y-xzqimNYlevUFNNDugPTCK_g39QhlYx7XKuzVza98TfZOtjxuL_fh1cmwosdPRCbT8fb-nJcAKqOP8QwFXGEjUfd6uubTzBR35Oe8i16LunI3tLGOWZkoDTD3XzHyhGCm4Pi6nkwl3RAyNYR1jSqg6Ss8RaJmAe3GaUmWIyWLH2twK8TxAbX0_56J1oLE3W34lc3EJ0dxQSluNaCDGfpsh7Bw5Ypm6hhDVbSQNsxC-1jfw8nEyEGdlYfEZD9k6q5l2-4LydpFVv4X8rSXsV10BCd8cge3fnQMDaiEBXuSLMX75HQy3tVYFGQ4z17UBUlaAd-VnHB-Y1XV7AI--WFU5OiGUnYsXgJYyvUPUG-gZ7ZFy_cp7EcLkU2dOe2noo2r--zIpE3VLIpZgc9vgUcJToPxJoqnjReZElJp9q0tfGvPG77_UH73LfMN5l8a4yl6oJmXIfzpqBnrO4tfrgVYNculdq1wTAx_OhX2WLtJQ6orQmHXUn34ohNnkXq0K43yeTYgGQ89F2l1s-w10swqu3X898tcxX5jkVsndcEKeBeYoIJMqP4E",
+        "refreshToken": "rt_e5MK7CfBfIw5UMDfhAXZtO499bkP0IPfAbg8KrenV4k.vIVQhWr3LcSmziSFac-eBa5WLdoFKzLtxoDC3m8pmsQ",
+        "expiresAt": 1774652413823,
+        "accountId": "b61cdf5a-a2e4-4540-bf71-541e53acc094"
+      }
     },
     {
       "type": "gemini-plan",
       "id": "gemini-plan",
       "oauth": {
-        "accessToken": "ya29.a0ATkoCc7aNCz0AgLnvDgf_2MVwxg0YcJLOg9uzo2L56VjVjc5PYwZ1cZ7YBhXR5fLM-VvKszer99isChznV-zIjmtlVbwtk3JbdDGs5ihn_GbQOvZPwhepgaG4VmBuFua9-0h7Oat_-1Mb6kJI3XbDGUvNZeaZEolIdJI197wXgUTCIiRCMhEvkYJQL3Mo7lkWwIS5iJU0z9WaCgYKAaESARMSFQHGX2Mie3I-OIqbhYyxaFHKLB_bhA0211",
-        "refreshToken": "1//03PX5zXlYht9KCgYIARAAGAMSNwF-L9IrXQLntkuUP1IlW7Y6j35VrF_LWPnWib8hL0SRAj3f0rCO_E8yNe7x-bdJtZr3-AfP2Co",
-        "expiresAt": 1773787449324,
-        "managedProjectId": "even-dragon-s2w4j",
+        "accessToken": "ya29.a0ATkoCc58qwIeZva07M0vB021bqc1iZ9FBp0DqsfaNNCZQvf5eA6p-t3mpiO4BS0FmTJs1Yy3vqAGBcqvAis_1hFK2m2oBQsIkkw_FjyURk_rsDIlmQ2J_KkfCO3Wvqk2NS_3llhkI8eaBRlhGnpgbMtIq8odv3EH6CqUHbMhHsl8A-iRTBZoCAsVDSPotDh4-Smd_jDqsN_PaCgYKAYoSARMSFQHGX2Mi7F3pzjxTQxGzwDskOiYU0w0211",
+        "refreshToken": "1//037LHSby-dekaCgYIARAAGAMSNwF-L9IrORLatP3ENgs1bNif4jyW5bdzFRZ4DIoQqCwkQMqUwnGguBAJ6CZ4x_-j5mFIYiVrYh4",
+        "expiresAt": 1773792068961,
         "email": "theeb@theeb.studio"
       }
     },
     {
       "type": "anthropic",
-      "id": "anthropic"
+      "id": "anthropic",
+      "apiKey": "2030"
     },
     {
       "type": "openai",
@@ -228,7 +239,7 @@
     }
   ],
   "chatModelId": "claude-opus-4.5",
-  "applyModelId": "gpt-4.1-mini",
+  "applyModelId": "claude-opus-4.5",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
   "ragOptions": {

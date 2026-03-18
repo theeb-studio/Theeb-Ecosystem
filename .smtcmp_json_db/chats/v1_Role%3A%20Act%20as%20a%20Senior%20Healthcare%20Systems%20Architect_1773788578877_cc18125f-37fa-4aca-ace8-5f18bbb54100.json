@@ -1,0 +1,418 @@
+{
+  "id": "cc18125f-37fa-4aca-ace8-5f18bbb54100",
+  "title": "Role: Act as a Senior Healthcare Systems Architect",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Role: Act as a Senior Healthcare Systems Architect and Strategic Consultant. Your goal is to audit the \"Theeb Ecosystem\" vault to ensure it reflects a world-class, integrated healthcare infrastructure.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Reference Framework: Use the tripartite structure of TKG (Scientific Engine), TVG (Financial Intelligence), and THDG (Patient Delivery) as the primary evaluation lens.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Instructions:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cross-Entity Audit: Scan all files for semantic consistency. Ensure that specialized entities like Waraqa, Nama CRO, and Integra RCM are described with a unified voice that supports the \"Orchestration Principle\" (One Client, Multiple Companies).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Technical Clarity Check: Evaluate the Clinical Intelligence Infrastructure (CII) files. Ensure the transition from \"Diagnostic Reasoning\" to \"AR-DRG Coding\" and \"Revenue Cycle Management\" is logically bridged according to the 2026 Saudi regulatory roadmap.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Moat Verification: Check if the documentation clearly articulates the \"Unreplicable Moat\"—specifically the combination of SCFHS accreditation, 80+ scientific society relationships, and the four-layer financial stack.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Structural Refinement Plan: Propose a standardized template for all _INDEX files to ensure they look identical in structure (Identity, Role, Moat, Status, and Integration Points).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Roadmap for V2.0: Provide a 5-step visualization of how to restructure these folders to better reflect the flow of \"Data Up\" from THDG clinics to TVG intelligence layers.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Output: Provide a \"Critical Gap Analysis\" followed by a \"Refined Documentation Strategy.\"",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nRole: Act as a Senior Healthcare Systems Architect and Strategic Consultant. Your goal is to audit the \"Theeb Ecosystem\" vault to ensure it reflects a world-class, integrated healthcare infrastructure.Reference Framework: Use the tripartite structure of TKG (Scientific Engine), TVG (Financial Intelligence), and THDG (Patient Delivery) as the primary evaluation lens.Instructions:Cross-Entity Audit: Scan all files for semantic consistency. Ensure that specialized entities like Waraqa, Nama CRO, and Integra RCM are described with a unified voice that supports the \"Orchestration Principle\" (One Client, Multiple Companies).Technical Clarity Check: Evaluate the Clinical Intelligence Infrastructure (CII) files. Ensure the transition from \"Diagnostic Reasoning\" to \"AR-DRG Coding\" and \"Revenue Cycle Management\" is logically bridged according to the 2026 Saudi regulatory roadmap.Moat Verification: Check if the documentation clearly articulates the \"Unreplicable Moat\"—specifically the combination of SCFHS accreditation, 80+ scientific society relationships, and the four-layer financial stack.Structural Refinement Plan: Propose a standardized template for all _INDEX files to ensure they look identical in structure (Identity, Role, Moat, Status, and Integration Points).Roadmap for V2.0: Provide a 5-step visualization of how to restructure these folders to better reflect the flow of \"Data Up\" from THDG clinics to TVG intelligence layers.Output: Provide a \"Critical Gap Analysis\" followed by a \"Refined Documentation Strategy.\"\n\n"
+        }
+      ],
+      "id": "5b65f0d1-b080-4997-a042-e009cb19c4fd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04-TTG/01-TTG-CII/_INDEX.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Role: Act as a Senior Healthcare Systems Architect and Strategic Consultant. Your goal is to audit the \"Theeb Ecosystem\" vault to ensure it reflects a world-class, integrated healthcare infrastructure.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Reference Framework: Use the tripartite structure of TKG (Scientific Engine), TVG (Financial Intelligence), and THDG (Patient Delivery) as the primary evaluation lens.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Instructions:",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Cross-Entity Audit: Scan all files for semantic consistency. Ensure that specialized entities like Waraqa, Nama CRO, and Integra RCM are described with a unified voice that supports the \"Orchestration Principle\" (One Client, Multiple Companies).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Technical Clarity Check: Evaluate the Clinical Intelligence Infrastructure (CII) files. Ensure the transition from \"Diagnostic Reasoning\" to \"AR-DRG Coding\" and \"Revenue Cycle Management\" is logically bridged according to the 2026 Saudi regulatory roadmap.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Moat Verification: Check if the documentation clearly articulates the \"Unreplicable Moat\"—specifically the combination of SCFHS accreditation, 80+ scientific society relationships, and the four-layer financial stack.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Structural Refinement Plan: Propose a standardized template for all _INDEX files to ensure they look identical in structure (Identity, Role, Moat, Status, and Integration Points).",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Roadmap for V2.0: Provide a 5-step visualization of how to restructure these folders to better reflect the flow of \"Data Up\" from THDG clinics to TVG intelligence layers.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            },
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Output: Provide a \"Critical Gap Analysis\" followed by a \"Refined Documentation Strategy.\"",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "09739662-d789-469d-9468-bde64cd8d055",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04-TTG/01-TTG-CII/_INDEX.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1773788188825,
+  "updatedAt": 1773788578877,
+  "schemaVersion": 1
+}
