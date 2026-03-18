@@ -410,9 +410,46 @@
           "file": "04-TTG/01-TTG-CII/_INDEX.md"
         }
       ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "read all files and give me a summery ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "6a6eb227-e3d1-4ca3-bf9e-5bb3994b7ee9",
+      "mentionables": []
     }
   ],
   "createdAt": 1773788188825,
-  "updatedAt": 1773788578877,
+  "updatedAt": 1773799729438,
   "schemaVersion": 1
 }
