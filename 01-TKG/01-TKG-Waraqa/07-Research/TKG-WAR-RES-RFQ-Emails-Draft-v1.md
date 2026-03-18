@@ -5,6 +5,31 @@
 
 ---
 
+## PUBLISHER CONTACT DIRECTORY
+
+| # | Publisher | Sales Page / Form | Email | MENA Contact |
+|---|-----------|------------------|-------|-------------|
+| 1 | **Wiley** | [Library Sales Contact](https://wolsupport.wiley.com/s/article/contact-wiley-library-sales) | b2bagents@wiley.com | Regional rep via form |
+| 2 | **Elsevier** | [ScienceDirect Contact](https://www.elsevier.com/products/sciencedirect/contact-us) / [Institutional](https://www.elsevier.com/solutions/funding-institutional/contact) | Via form | EMEA: +44 1865 843434 |
+| 3 | **Springer Nature** | [Librarian Contact](https://www.springernature.com/gp/librarians/contact-us) | — | **Asdaa Kotani** (VP Sales ME/Africa): Asdaa.Kotani@springernature.com / +971 55 585 5566 |
+| 4 | **EBSCO** | [Contact Page](https://about.ebsco.com/contact) / [Offices](https://about.ebsco.com/offices) | **mena@ebsco.com** | Dubai office: +971 50 9 812 811 (Ali Abdallah) |
+| 5 | **Clarivate** (Web of Science) | [Contact Us](https://clarivate.com/contact-us/) | Via form | Via form |
+| 6 | **ProQuest** (Clarivate) | [Contact Sales](https://about.proquest.com/contact/contact-sales/) | Sales@ProQuest.com | Via form |
+| 7 | **Taylor & Francis** | [MENA Contact Page](https://taylorandfrancis.com/mena/contact-us/) / [Sales Reps](https://librarianresources.taylorandfrancis.com/contact-us/sales-reps/) | support@tandfonline.com | **Ahmed Monir** (Head of Sales MENA) / **Yasser Allam** (Saudi) |
+| 8 | **IEEE** | [Subscription Inquiry](https://innovate.ieee.org/interested-in-a-subscription-for-your-organization/) | ieeexplore@ieee.org | Via form |
+| 9 | **Oxford University Press** | [Academic Sales](https://global.oup.com/academic/contactus/sales/) / [Find a Rep](https://global.oup.com/academic/contactus/find-a-rep/) | library.marketing@oup.com / collectionquotes@oup.com | Via Find a Rep |
+| 10 | **Cambridge University Press** | [Find Sales Contact](https://www.cambridge.org/core/services/librarians/find-my-sales-contact) | library.sales@cambridge.org | Via regional rep page |
+| 11 | **SAGE** | [Librarian Reps](https://www.sagepub.com/contact-and-support/contact-us/librarian-reps) / [Institutional](https://journals.sagepub.com/page/contact/institution) | UKJournalSalesAdmin@sagepub.co.uk (EMEA) | EMEA desk |
+| 12 | **Wolters Kluwer** (UpToDate/Ovid) | [UpToDate Enterprise Sales](https://www.wolterskluwer.com/en/solutions/uptodate/contact/sales) | support@ovid.com | Via enterprise sales form |
+
+### الأهم — جهات اتصال مباشرة في المنطقة:
+- 🟢 **Springer Nature** → Asdaa Kotani (مقرها الخليج): Asdaa.Kotani@springernature.com
+- 🟢 **EBSCO** → مكتب دبي: mena@ebsco.com
+- 🟢 **Taylor & Francis** → Ahmed Monir + Yasser Allam (مسؤول السعودية): صفحة MENA مخصصة
+- 🟡 **Elsevier / Wiley / Clarivate** → نماذج إلكترونية تحولك للممثل الإقليمي
+
+---
+
 ## EMAIL 1: iDev (شركة التنمية المعلوماتية للتجارة)
 **To:** info@idev.com.sa
 **Subject:** طلب عرض أسعار — اشتراكات قواعد بيانات بحثية لمجموعة مستشفيات
