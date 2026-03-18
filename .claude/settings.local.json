@@ -137,7 +137,22 @@
       "Bash(find '/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/' -path *TVG* -o -path *ntegra* -o -path *RCM*)",
       "Bash(PYTHONIOENCODING=utf-8 \"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" << 'PYEOF':*)",
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-pptx python-docx xlrd --quiet)",
-      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-docx python-pptx)"
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-docx python-pptx)",
+      "Bash(grep -oE '\\\\.[^.]+$')",
+      "Bash(unzip -q \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-STR-Sovereign-Clinical-Infrastructure-v1.pptx\" -d sovereign_extract)",
+      "Bash(unzip -q \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-PIT-Pitch-Deck-v1.pptx\" -d pitch_extract)",
+      "Bash(unzip -q \"/mnt/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-PIT-Pitch-Deck-v1.pptx\" -d /tmp/pitch_extract)",
+      "Bash(rm -rf sov_tmp pitch_tmp pres_tmp)",
+      "Bash(mkdir sov_tmp pitch_tmp pres_tmp)",
+      "Bash(unzip -q \"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\00-TAK-ROOT\\\\TKG-GROUP-STR-Sovereign-Clinical-Infrastructure-v1.pptx\" -d sov_tmp)",
+      "Bash(unzip -q \"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\00-TAK-ROOT\\\\TKG-GROUP-PIT-Pitch-Deck-v1.pptx\" -d pitch_tmp)",
+      "Bash(unzip -q '/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-STR-Sovereign-Clinical-Infrastructure-v1.pptx' -d sov_tmp)",
+      "Bash(unzip -q '/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-PIT-Pitch-Deck-v1.pptx' -d pitch_tmp)",
+      "Bash(unzip -q '/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/Theeb-Ecosystem-Presentation.pptx' -d pres_tmp)",
+      "Bash(grep -h \"<a:t>\" /tmp/sov_tmp/ppt/slides/*.xml)",
+      "Bash(sed 's/<a:t>//g; s/<\\\\/a:t>//g')",
+      "Bash(done)",
+      "Bash(EOF)"
     ]
   }
 }
