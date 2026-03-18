@@ -121,7 +121,19 @@
       "Bash(python -m pip install pypdf)",
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install pypdf)",
       "Bash(PY=\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\")",
-      "Bash(\"$PY\" -c \":*)"
+      "Bash(\"$PY\" -c \":*)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install cryptography -q)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -c \":*)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install openpyxl -q)",
+      "Bash(PYTHONIOENCODING=utf-8 \"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -c \":*)",
+      "Bash(PYTHONIOENCODING=utf-8 \"$PY\" -c \":*)",
+      "WebFetch(domain:idev.com.sa)",
+      "WebFetch(domain:rushd.sa)",
+      "WebFetch(domain:naseej.com)",
+      "WebFetch(domain:www.wiley.com)",
+      "WebSearch",
+      "WebFetch(domain:www.rdworldonline.com)",
+      "WebFetch(domain:getcoai.com)"
     ]
   }
 }
