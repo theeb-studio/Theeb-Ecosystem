@@ -133,7 +133,11 @@
       "WebFetch(domain:www.wiley.com)",
       "WebSearch",
       "WebFetch(domain:www.rdworldonline.com)",
-      "WebFetch(domain:getcoai.com)"
+      "WebFetch(domain:getcoai.com)",
+      "Bash(find '/c/Users/د. ذيب/Desktop/Theeb-Ecosystem/' -path *TVG* -o -path *ntegra* -o -path *RCM*)",
+      "Bash(PYTHONIOENCODING=utf-8 \"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" << 'PYEOF':*)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-pptx python-docx xlrd --quiet)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-docx python-pptx)"
     ]
   }
 }

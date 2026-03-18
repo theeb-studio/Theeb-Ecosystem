@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +194,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "074f409556507e1e",
+  "active": "cea0ec2a2b1df078",
   "lastOpenFiles": [
+    "02-TVG/01-TVG-Integra-RCM/02-Operations/~$G-RCM-OPS-Scope-of-Work-v1.docx",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-RFQ-Emails-Draft-v1.md.tmp.23404.1773821243523",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-Competitive-Intelligence-v1.md",
     "04-TTG/00-TTG-GROUP/_INDEX.md",
@@ -223,7 +224,6 @@
     "Theeb-Ecosystem/03-THDG/06-THDG-Clinical-Ventures",
     "Theeb-Ecosystem/01-TKG/05-TKG-Evidence-Platform/_INDEX.md",
     "Theeb-Ecosystem/01-TKG/05-TKG-Evidence-Platform/01-Strategy",
-    "Theeb-Ecosystem/01-TKG/05-TKG-Evidence-Platform",
     "Theeb-Ecosystem/01-TKG/04-TKG-Bio-Center/_INDEX.md",
     "Theeb-Ecosystem/01-TKG/03-TKG-Nama-Academy/_INDEX.md",
     "Theeb-Ecosystem/00-TAK-ROOT/MASTER-ARCHITECTURE.md",
