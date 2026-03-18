@@ -11,12 +11,14 @@
             "id": "074f409556507e1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01-TKG/01-TKG-Waraqa/01-Strategy/TKG-WAR-STR-Business-Vision-Strategy-v2.pdf"
+                "file": "02-TVG/03-TVG-Majour/_INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TKG-WAR-STR-Business-Vision-Strategy-v2"
+              "icon": "lucide-file",
+              "title": "_INDEX"
             }
           }
         ]
@@ -194,27 +196,34 @@
   },
   "active": "074f409556507e1e",
   "lastOpenFiles": [
+    "02-TVG/02-TVG-MGA/05-Products-Services/TVG-MGA-SRV-Longevity-Token-Reward-Logic-v1.pdf",
+    "02-TVG/02-TVG-MGA/01-Strategy/TVG-MGA-STR-V-MGA-Proposal-v1.pdf",
+    "02-TVG/02-TVG-MGA/01-Strategy/TVG-MGA-STR-V-MGA-Proposal-AI-PHM-v2.pdf",
+    "02-TVG/02-TVG-MGA/01-Strategy/TVG-MGA-STR-Technology-AI-Map-v1.pdf",
+    "02-TVG/02-TVG-MGA/01-Strategy/TVG-MGA-STR-Technical-Architecture-Partners-v1.pdf",
+    "02-TVG/02-TVG-MGA/01-Strategy/TVG-MGA-STR-Longevity-Innovation-Narrative-v1.pdf",
+    "02-TVG/01-TVG-Integra-RCM/MASTER_STRATEGY_REF.md",
+    "02-TVG/01-TVG-Integra-RCM/CHALLENGES_RESOLUTION_LOGIC.md",
+    "02-TVG/01-TVG-Integra-RCM/_INDEX.md",
+    "02-TVG/01-TVG-Integra-RCM/08-Clients/TVG-RCM-CLI-NMC-Non-Binding-Offer-v1.pdf",
+    "02-TVG/01-TVG-Integra-RCM/08-Clients/TVG-RCM-CLI-Contractor-Evaluation-Template-AR-v1.pdf",
+    "02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-R1-Maternity-Gap-Analysis-v1.pdf",
+    "02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-R1-Gap-Analysis-v1.pdf",
+    "02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-R1-Data-Maturity-v1.pdf",
+    "02-TVG/00-TVG-GROUP/GROUP_FLYWHEEL_LOGIC.md",
+    "02-TVG/00-TVG-GROUP/_INDEX.md",
+    "02-TVG/00-TVG-GROUP/01-Strategy/TVG-GROUP-STR-Strategic-Blueprint-v1.md",
     "01-TKG/01-TKG-Waraqa/_INDEX.md",
     "01-TKG/00-TKG-GROUP/_INDEX.md",
     "00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-Competitive-Intelligence-v1.md",
-    "01-TKG/01-TKG-Waraqa/01-Strategy/TKG-WAR-STR-CUA-Partnership-Proposal-v1.pdf",
-    "01-TKG/01-TKG-Waraqa/01-Strategy/TKG-WAR-STR-Business-Vision-Strategy-v2.pdf",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-RFQ-Emails-Draft-v1.md",
-    "02-TVG/01-TVG-Integra-RCM/02-Operations/~$G-RCM-OPS-Scope-of-Work-v1.docx",
-    "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-RFQ-Emails-Draft-v1.md.tmp.23404.1773821243523",
     "04-TTG/00-TTG-GROUP/_INDEX.md",
-    "04-TTG/01-TTG-CII/CII-PILOT-PROPOSAL-v1.docx",
-    "04-TTG/01-TTG-CII/~$AREABLE-CII-Vision-Overview.docx",
-    "04-TTG/01-TTG-CII/~$AREABLE-CII-Pilot-Brief.docx",
-    "04-TTG/01-TTG-CII/SHAREABLE-CII-Vision-Overview.docx",
-    "04-TTG/01-TTG-CII/SHAREABLE-CII-Pilot-Brief.docx",
     "04-TTG/01-TTG-CII/_INDEX.md",
     "04-TTG/01-TTG-CII/CII-Deep-Evidence-Collaboration-Strategy.md",
     "04-TTG/01-TTG-CII/_INDEX1.md",
     "00-TAK-ROOT/_INDEX.md",
     "03-THDG/06-THDG-Clinical-Ventures/CLV-03-Dawali-Vascular/_INDEX.md",
-    "Untitled",
     "Untitled.canvas",
     "2026-03-16.md",
     "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Ecosystem Architecture Overview.md",
@@ -223,13 +232,6 @@
     "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK 30-Year Vision.md",
     "Theeb-Ecosystem/03-THDG/00-THDG-GROUP/01-Strategy/THDG-GROUP-STR-Well-Strategic-Blueprint-v1.md",
     "Theeb-Ecosystem/03-THDG/06-THDG-Clinical-Ventures/_INDEX.md",
-    "Theeb-Ecosystem/01-TKG/05-TKG-Evidence-Platform/_INDEX.md",
-    "Theeb-Ecosystem/01-TKG/04-TKG-Bio-Center/_INDEX.md",
-    "Theeb-Ecosystem/01-TKG/03-TKG-Nama-Academy/_INDEX.md",
-    "Theeb-Ecosystem/00-TAK-ROOT/MASTER-ARCHITECTURE.md",
-    "Theeb-Ecosystem/00-TAK-ROOT/TKG-GROUP-STR-Group-Constitution-v1.md",
-    "Theeb-Ecosystem/03-THDG/05-THDG-Wellunion/01-Strategy/THDG-WEL-STR-Platform-Architecture-v1.md",
-    "Theeb-Ecosystem/03-THDG/01-THDG-Union-Clinics/01-Strategy/THDG-UCL-STR-Clinic-Network-Strategy-v1.md",
-    "Theeb-Ecosystem/03-THDG/01-THDG-Union-Clinics/_INDEX.md"
+    "Theeb-Ecosystem/01-TKG/05-TKG-Evidence-Platform/_INDEX.md"
   ]
 }
