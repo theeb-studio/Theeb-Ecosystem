@@ -178,9 +178,35 @@ Each revolution makes CII more accurate, more valuable, and harder to displace. 
 
 ---
 
+## Active Projects
+
+### CII-PLT-01 — Care Hospitals Pilot (Phase 1)
+- **Status:** Pre-deployment
+- **Duration:** 3–6 months
+- **Scope:** First real-world CII deployment in a live multi-hospital system
+- **Entry point:** Clinical Evidence Assistant — physician-facing, no EHR integration required
+- **Governance:** Saudi scientific societies govern clinical output per specialty domain
+- **Incentive model:** Physician token system → CME credits (SCFHS via Nama Academy) + financial rewards
+- **IP:** All derivative works, data, and knowledge generated belong to TTG-CII
+- **Detail:** `CII-PILOT-Care-Hospitals.md`
+
+### CII-COL-01 — Deep Evidence Collaboration
+- **Status:** Negotiation
+- **Principle:** Use → Integrate → Localize → Own
+- **Role:** Deep Evidence provides initial AI engine to accelerate CII deployment; transitions to CII-owned infrastructure over 18–24 months
+- **Branding:** CII only — Deep Evidence is invisible at all external touchpoints
+- **IP:** All adaptations, Arabic models, generated data, and derivative models belong to TTG-CII
+- **Competitive protection:** Geographic and vertical exclusivity in KSA/GCC during collaboration
+- **Exit:** CII arrives at sovereignty regardless of outcome — integration or full replacement
+- **Detail:** `CII-Deep-Evidence-Collaboration-Strategy.md`
+
+---
+
 ## Source Documents
 
 - **Full white paper:** `01-TTG-CII/Clinical-Intelligence-Platform-White-Paper.docx`
+- **Care Hospitals pilot:** `CII-PILOT-Care-Hospitals.md`
+- **Deep Evidence collaboration:** `CII-Deep-Evidence-Collaboration-Strategy.md`
 - **Group context:** `00-TTG-GROUP/_INDEX.md`
 - **Ecosystem orchestration:** `00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md`
 - **Master architecture:** `00-TAK-ROOT/MASTER-ARCHITECTURE.md` — Part Five (TTG)

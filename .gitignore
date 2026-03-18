@@ -1,0 +1,7 @@
+
+# Obsidian plugin credentials (contains OAuth tokens)
+.obsidian/plugins/smart-composer/data.json
+
+# Smart Composer local databases (large binaries, local state)
+.smtcmp_vector_db.tar.gz
+.smtcmp_json_db/
