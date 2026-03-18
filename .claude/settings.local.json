@@ -98,7 +98,15 @@
       "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/appearance.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
       "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/core-plugins.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
       "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/graph.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
-      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/workspace.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")"
+      "Bash(cp \"/c/Users/FB19~1/Desktop/.obsidian/workspace.json\" \"/c/Users/FB19~1/Desktop/Theeb-Ecosystem/.obsidian/\")",
+      "Bash(powershell.exe -Command \"Remove-Item ''C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock'' -Force -ErrorAction SilentlyContinue; Write-Host ''done''\")",
+      "Bash(powershell.exe -Command \"Get-Process | Where-Object {\\($_.ProcessName -like ''*obsidian*''\\) -or \\($_.ProcessName -like ''*GitHubDesktop*''\\) -or \\($_.ProcessName -like ''*git*''\\)} | Select-Object ProcessName, Id | Format-Table -AutoSize\")",
+      "Bash(powershell.exe -NoProfile -Command 'Get-Process -Name \"\"*obsidian*\"\",\"\"*GitHubDesktop*\"\" -ErrorAction SilentlyContinue | Select ProcessName,Id')",
+      "Bash(powershell.exe -NoProfile -Command 'while \\(Test-Path \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\"\\) { Remove-Item \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\" -Force; Start-Sleep -Milliseconds 100 }; & \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" add .gitignore \"\"04-TTG/01-TTG-CII/CII-Deep-Evidence-Collaboration-Strategy.md\"\" \"\"04-TTG/01-TTG-CII/CII-PILOT-Care-Hospitals.md\"\" \"\"04-TTG/01-TTG-CII/_INDEX.md\"\"; Write-Host \"\"STAGED OK\"\"')",
+      "Bash(powershell.exe -NoProfile -Command 'while \\(Test-Path \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\"\\) { Remove-Item \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\" -Force; Start-Sleep -Milliseconds 100 }; & \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" status --short')",
+      "Bash(powershell.exe -NoProfile -Command 'while \\(Test-Path \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\"\\) { Remove-Item \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\.git\\\\index.lock\"\" -Force; Start-Sleep -Milliseconds 100 }; & \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" reset HEAD .claude/settings.local.json \"\"04-TTG/01-TTG-CII/_INDEX1.md\"\"; Write-Host \"\"RESET OK\"\"')",
+      "Bash(powershell.exe -NoProfile -Command ':*)",
+      "Bash(powershell.exe -NoProfile -Command '& \"\"C:\\\\Program Files\\\\Git\\\\bin\\\\git.exe\"\" -C \"\"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\"\" push origin main 2>&1')"
     ]
   }
 }

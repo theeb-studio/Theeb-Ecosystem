@@ -24,9 +24,10 @@
       "type": "gemini-plan",
       "id": "gemini-plan",
       "oauth": {
-        "accessToken": "ya29.a0ATkoCc58qwIeZva07M0vB021bqc1iZ9FBp0DqsfaNNCZQvf5eA6p-t3mpiO4BS0FmTJs1Yy3vqAGBcqvAis_1hFK2m2oBQsIkkw_FjyURk_rsDIlmQ2J_KkfCO3Wvqk2NS_3llhkI8eaBRlhGnpgbMtIq8odv3EH6CqUHbMhHsl8A-iRTBZoCAsVDSPotDh4-Smd_jDqsN_PaCgYKAYoSARMSFQHGX2Mi7F3pzjxTQxGzwDskOiYU0w0211",
+        "accessToken": "ya29.a0ATkoCc4MIB35dDIg3odUF351ao9N1Inli2XdRvRi2Evn0eSoBNgm8zJ4wgz95kLEo_LixnQri5RIO2QdhVgnaUjxk3Y723qXEn2bdYUDgll3G3WYPwzTW7gi9P3bqOVhE-WypYmmi9epkXXD3pe-hqZdBIPTsXxf6QsXMe5E1twIIcDGr5eCjSq0SbOFYIJa2VZGez9ybO-naCgYKAfISARMSFQHGX2MibONLeTfeKxzkmXY1Lmvq_g0211",
         "refreshToken": "1//037LHSby-dekaCgYIARAAGAMSNwF-L9IrORLatP3ENgs1bNif4jyW5bdzFRZ4DIoQqCwkQMqUwnGguBAJ6CZ4x_-j5mFIYiVrYh4",
-        "expiresAt": 1773792068961,
+        "expiresAt": 1773804153225,
+        "managedProjectId": "even-dragon-s2w4j",
         "email": "theeb@theeb.studio"
       }
     },
@@ -238,7 +239,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-opus-4.5",
+  "chatModelId": "gemini-3-flash-preview (plan)",
   "applyModelId": "claude-opus-4.5",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",

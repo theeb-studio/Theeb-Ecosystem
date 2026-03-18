@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-TTG/01-TTG-CII/_INDEX.md",
+                "file": "04-TTG/00-TTG-GROUP/_INDEX.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6c00ca081331c618",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +196,10 @@
   },
   "active": "074f409556507e1e",
   "lastOpenFiles": [
-    "04-TTG/00-TTG-GROUP/_INDEX.md",
     "04-TTG/01-TTG-CII/_INDEX.md",
+    "04-TTG/01-TTG-CII/CII-Deep-Evidence-Collaboration-Strategy.md",
+    "04-TTG/01-TTG-CII/_INDEX1.md",
+    "04-TTG/00-TTG-GROUP/_INDEX.md",
     "00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md",
     "00-TAK-ROOT/_INDEX.md",
     "03-THDG/06-THDG-Clinical-Ventures/CLV-03-Dawali-Vascular/_INDEX.md",
