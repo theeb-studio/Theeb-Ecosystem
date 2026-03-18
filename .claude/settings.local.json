@@ -167,7 +167,12 @@
       "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/\"*/)",
       "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/\"*/)",
       "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/03-THDG/\"*/)",
-      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/04-TTG/\"*/)"
+      "Bash(ls -d \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/04-TTG/\"*/)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install \"markitdown[all]\" -q)",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/VBC Guideline for Providers v3 consultents review.docx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-CHI-VBC-Guidelines-Providers-v3.docx\")",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/Alignment of VBC and DRGs.docx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-DRG-VBC-Alignment-Assessment.docx\")",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/Review of the Value‑Based Contracting \\(VBC\\) Guideline.docx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-VBC-Guideline-Review.docx\")",
+      "Bash(cp \"C:/Users/د. ذيب/Downloads/Key Challenges in Implementing the Operating Model and Recommendations.docx\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/02-TVG/01-TVG-Integra-RCM/07-Research/TVG-RCM-RES-CHI-Operating-Model-Challenges.docx\")"
     ]
   }
 }
