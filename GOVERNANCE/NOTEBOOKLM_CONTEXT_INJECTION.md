@@ -57,13 +57,14 @@ When documents conflict, apply this precedence:
 
 ## THE FOUR GROUPS
 
-### TKG — Theeb Knowledge Group (5 entities)
+### TKG — Theeb Knowledge Group (6 entities)
 **Role:** Scientific credibility layer. Produces clinical knowledge.
 - Waraqa: Scientific publishing and clinical guidelines
 - Nama CRO: Clinical trials and real-world evidence
 - Nama Academy: SCFHS-accredited CME and physician training
 - Nama Bio: Bioequivalence studies and drug localization
 - Evidence Platform: Sovereign clinical evidence platform (knowledge graph, MNC decision engine, CME)
+- PubHelper: AI-powered research factory — converts clinical questions into graded, publishable evidence using an 8-module system (Intake → Protocol → Data → Analysis → Writing → Publication → Evidence Engine → Marketplace) with a 5-level Sovereign Evidence Grading Rubric as quality gate
 
 ### TVG — Theeb Value Group (3 entities)
 **Role:** Financial operating system. Measures and monetizes value.
@@ -81,6 +82,7 @@ When documents conflict, apply this precedence:
 ### TTG — Theeb Technology Group (1 entity)
 **Role:** Intelligence infrastructure. The AI nervous system.
 - CII (Clinical Intelligence Infrastructure): 7-layer AI platform from clinical evidence retrieval to real-world evidence generation. Sits above existing EHR/HIS systems. Serves all 3 other groups simultaneously + external market.
+- **Sovereign Compute Architecture:** CII operates on the principle "trust the intelligence, not the storage" — raw patient data is processed, intelligence is extracted, raw data is minimized. Population-level insights persist as permanent assets. Cryptographic audit trails are preserved. This satisfies PDPL data minimization (Article 10) and purpose limitation (Article 14) by design.
 
 ---
 
@@ -94,6 +96,16 @@ Clinical encounter (THDG) → Documented by CII (TTG) → Coded by Integra RCM (
 → CII deploys updated clinical agents → Better clinical encounters
 → [CYCLE REPEATS — COMPOUNDING INTELLIGENCE]
 ```
+
+## THE CLOSED LOOP REVENUE ENGINE (TVG Commercial Model)
+
+```
+Code Accurately (Integra RCM + CII) → Measure Outcomes (VBH Co)
+→ Prove Savings (verified against baseline) → Share Gains (15-25% to TVG)
+→ Repeat at Scale (quarterly compounding)
+```
+
+TVG's gain-share model aligns revenue with client outcomes. A SAR 300M hospital generates SAR 11-15M/year in gain-share revenue alone. Revenue scales with procurement budgets, not headcount.
 
 ---
 

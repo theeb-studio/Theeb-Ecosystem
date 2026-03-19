@@ -104,14 +104,16 @@ Data assets (de-identified) added to shared intelligence layer
 | Phase | Entity | Scope | Revenue Type |
 |-------|--------|-------|-------------|
 | Evidence generation | TKG — Nama CRO | Phase IV / observational study design and execution | CRO services fee |
+| Research production | TKG — PubHelper | AI-powered systematic review of existing evidence on the drug class; PICO structuring; meta-analysis if prior studies exist; Evidence Grading (Level 3-5) | Research project fee |
 | RWD platform | TKG — Evidence Platform | Integration of drug data into knowledge graph, RWD analytics | Platform subscription |
 | Publication | TKG — Waraqa | Manuscript preparation, journal submission, peer review management | Publishing services fee |
-| Guidelines | TKG — Waraqa + Scientific Societies | Drug included in updated national guideline | Society partnership revenue |
+| Guidelines | TKG — Waraqa + Scientific Societies | Drug included in updated national guideline (supported by PubHelper Grade A evidence) | Society partnership revenue |
 | Physician education | TKG — Nama Academy | Accredited CME symposia at SHA + other society conferences | Pharma CME sponsorship |
 | Real-world delivery data | THDG — Welunion | Drug used in CDM / chronic disease programs; outcomes collected | Clinical services + data fee |
 | Outcomes analytics | TVG — VBH Company | Cost-effectiveness and payer-facing evidence package | Analytics subscription |
 
 **Lead entity:** TKG — Nama CRO (research is the primary need)
+**PubHelper role:** Produces the systematic review and meta-analysis that forms the evidence foundation for the guideline update. PubHelper's Evidence Grading Rubric ensures the output meets Grade A (Score 20-25) before it can inform national guidelines.
 **Total ecosystem revenue potential:** SAR 3–8M over 18 months (one drug, one indication)
 
 ---

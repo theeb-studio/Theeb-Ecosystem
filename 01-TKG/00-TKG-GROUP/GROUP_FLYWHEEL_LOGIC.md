@@ -1,5 +1,5 @@
 # TKG — THEEB KNOWLEDGE GROUP: FLYWHEEL LOGIC
-**Group: TKG | Entities: 5 (Waraqa, Nama CRO, Nama Academy, Nama Bio, Evidence Platform)**
+**Group: TKG | Entities: 6 (Waraqa, Nama CRO, Nama Academy, Nama Bio, Evidence Platform, PubHelper)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework**
 **Version 1.0 | March 2026**
 
@@ -99,6 +99,28 @@ Waraqa partners with scientific society
 
 **Compound effect:** Each society partnership generates revenue for 4 TKG entities simultaneously.
 
+### Loop 5: PubHelper — Clinical Questions → Scientific Assets (THE RESEARCH FACTORY)
+
+```
+Welunion clinician asks a clinical question
+    → PubHelper Intake captures and structures (PICO)
+    → AI assigns evidence level from pyramid (Level 1-5)
+    → Project Designer generates protocol
+    → Data captured from Welunion/CRO/external (eCRFs)
+    → Analysis Workbench produces results
+    → Writing Studio drafts manuscript (using CII NLP engine)
+    → Publication Manager routes to Waraqa journal
+    → Evidence Engine grades output (SOR: A/B/C)
+    → Graded evidence enters Evidence Platform knowledge graph
+    → CII clinical agents update decision support
+    → Clinicians receive better answers → ask better questions
+    → [LOOP REPEATS — EACH QUESTION BECOMES A KNOWLEDGE ASSET]
+```
+
+**Compound effect:** PubHelper converts the most abundant raw material in healthcare (clinical questions) into the most valuable refined product (graded evidence). Every question answered makes the Evidence Platform smarter, every study published strengthens Waraqa's credibility, and every Grade A output justifies a VBH Co value-based contract.
+
+**Why PubHelper is the flywheel accelerator:** Without PubHelper, research initiation depends on individual researcher motivation. With PubHelper, the pipeline from question to evidence is **automated, AI-augmented, and systematic** — turning an opportunistic process into a production line.
+
 ---
 
 ## INTER-ENTITY REVENUE FLOWS
@@ -108,6 +130,11 @@ Waraqa ──($300-500K/yr)──► Nama Academy (operational funding)
 Nama CRO ──(medical writing SLA)──► Waraqa ($300K+ inter-company revenue)
 All TKG entities ──(content)──► Evidence Platform (knowledge graph expansion)
 Nama Academy ──(2,000+ users/yr)──► Evidence Platform ($0 CAC distribution)
+PubHelper ──(manuscripts)──► Waraqa (publication revenue pipeline)
+PubHelper ──(graded evidence)──► Evidence Platform (knowledge graph expansion)
+PubHelper ──(meta-analyses)──► VBH Co (VBC contract justification) [cross-group]
+Welunion ──(clinical questions)──► PubHelper (raw material input) [cross-group]
+CII ──(NLP engine)──► PubHelper (Arabic/English processing) [cross-group]
 ```
 
 ---

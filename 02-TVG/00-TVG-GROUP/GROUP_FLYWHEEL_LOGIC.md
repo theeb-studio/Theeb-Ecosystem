@@ -67,6 +67,50 @@ MONTH 18+: Hospital embedded across all 4 layers
 
 **Compound effect:** Each client embedded in Layer 1 is a pre-qualified pipeline for Layers 2-4. CAC for higher layers approaches zero because the relationship already exists.
 
+### THE CLOSED LOOP REVENUE ENGINE
+
+> **This is the investor-facing distillation of how TVG actually makes money.**
+> Five words. One cycle. Revenue compounds quarterly.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│    ┌──────────────┐                                              │
+│    │ 1. CODE      │   Integra RCM + CII Layer 4-5               │
+│    │   ACCURATELY │   >95% coding accuracy; DRG-optimized       │
+│    └──────┬───────┘                                              │
+│           │                                                      │
+│           ▼                                                      │
+│    ┌──────────────┐                                              │
+│    │ 2. MEASURE   │   VBH Co PROMs + DRG cost baselines          │
+│    │   OUTCOMES   │   Quantify what healthcare actually delivers │
+│    └──────┬───────┘                                              │
+│           │                                                      │
+│           ▼                                                      │
+│    ┌──────────────┐                                              │
+│    │ 3. PROVE     │   Verified savings against baseline:         │
+│    │   SAVINGS    │   denial reduction + DRG uplift + VBC MSR    │
+│    └──────┬───────┘                                              │
+│           │                                                      │
+│           ▼                                                      │
+│    ┌──────────────┐                                              │
+│    │ 4. SHARE     │   Gain-share: TVG earns 15-25% of verified  │
+│    │   GAINS      │   savings. Hospital keeps 75-85%.            │
+│    └──────┬───────┘                                              │
+│           │                                                      │
+│           ▼                                                      │
+│    ┌──────────────┐                                              │
+│    │ 5. REPEAT    │   Each cycle generates more data → better    │
+│    │   AT SCALE   │   models → larger savings → higher gains.   │
+│    └──────┬───────┘                                              │
+│           │                                                      │
+│           └──────────────→ [LOOP REPEATS QUARTERLY]              │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Why this matters:** Traditional RCM companies charge flat per-claim fees. TVG aligns revenue with client outcomes — the more value it creates, the more it earns. A single SAR 300M hospital generates SAR 11-15M/year in gain-share revenue on top of base SaaS fees. Revenue scales with procurement budgets served, not consultants deployed.
+
 ### The Data Reinforcement Loop
 
 ```
@@ -78,7 +122,8 @@ Integra RCM generates claims data
     → Better products reduce insurer loss ratios
     → Reduced losses attract more payer-provider contracts
     → More contracts generate more claims data
-    → [LOOP ACCELERATES]
+    → Gain-share revenue compounds with each cycle
+    → [LOOP ACCELERATES — REVENUE COMPOUNDS QUARTERLY]
 ```
 
 ### The Insurer Crisis Resolution Loop
@@ -88,7 +133,8 @@ Insurer loss ratios at 83-96%
     → Payers demand VBP solutions → VBH Co provides
     → Providers need revenue optimization → Integra RCM provides
     → Risk alignment needed → Nexus MGA provides
-    → VBP contracts proven → more payers demand
+    → VBP contracts proven → savings verified → gain-share earned
+    → More payers demand → TVG reputation compounds
     → [LOOP ACCELERATES as market transforms]
 ```
 

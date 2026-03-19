@@ -88,14 +88,24 @@ TKG
 │          │ pharmaceutical research services
 │          │ Status: Early stage
 │
-└── TKG-05 │ Evidence Platform
-           │ Saudi Arabia's sovereign clinical evidence platform —
-           │ the digital layer for clinical guidelines, CME, RWD,
-           │ knowledge graph, and SCFHS-accredited continuing education
-           │ History: Incubated inside Waraqa (previously referenced as
-           │ "Waraqa Platform" or "FASL" in older documents)
-           │ Future: Will become an independent entity
-           │ Status: In development → transitioning to independence
+├── TKG-05 │ Evidence Platform
+│          │ Saudi Arabia's sovereign clinical evidence platform —
+│          │ the digital layer for clinical guidelines, CME, RWD,
+│          │ knowledge graph, and SCFHS-accredited continuing education
+│          │ History: Incubated inside Waraqa (previously referenced as
+│          │ "Waraqa Platform" or "FASL" in older documents)
+│          │ Future: Will become an independent entity
+│          │ Status: In development → transitioning to independence
+│
+└── TKG-06 │ PubHelper
+           │ AI-powered research factory — converts clinical questions
+           │ from THDG practitioners into structured, graded, publishable
+           │ evidence assets. 8-module system: Intake → Protocol →
+           │ Data → Analysis → Writing → Publication → Evidence Engine
+           │ → Marketplace. Uses CII NLP engine for Arabic-first processing.
+           │ Applies Sovereign Evidence Grading Rubric (Level 1-5) as
+           │ quality gate before any output enters the Shared Intelligence Layer.
+           │ Status: Design and build phase
 ```
 
 ### TKG Synergy Map
@@ -106,6 +116,8 @@ Nama CRO   →  generates the evidence that Waraqa publishes
 Nama Academy →  delivers CME on the Evidence Platform's content
 Evidence Platform →  distributes all TKG content digitally at scale
 Bios Center →  provides pharmaceutical-grade research for Waraqa + CRO
+PubHelper  →  converts THDG clinical questions into TKG scientific assets
+               (the research factory that feeds Waraqa and Evidence Platform)
 ```
 
 ### TKG Strategic Position
@@ -380,6 +392,7 @@ TKG publishes the research → improves the guidelines → [repeat, accelerating
 | Nama Academy | TKG-AKD |
 | Nama Bio Center | TKG-BIO |
 | Evidence Platform | TKG-EVP |
+| PubHelper | TKG-PBH |
 | Integra RCM | TVG-RCM |
 | MGA Company | TVG-MGA |
 | VBH Company | TVG-VBH |

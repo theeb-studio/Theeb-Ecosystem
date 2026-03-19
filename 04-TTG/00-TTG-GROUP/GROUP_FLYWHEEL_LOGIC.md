@@ -150,19 +150,91 @@ Welunion clinics generate encounter data
 
 ---
 
+## SOVEREIGN COMPUTE: THE DATA GOVERNANCE ARCHITECTURE
+
+> **Principle: Trust the intelligence, not the storage.**
+> CII processes massive volumes of clinical data under PDPL and NCA governance. The Sovereign Compute model formalizes how CII handles this responsibility.
+
+### The Core Design
+
+CII does not build permanent data honeypots. It operates on an **extract-intelligence-then-minimize** principle:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              SOVEREIGN COMPUTE LIFECYCLE                      │
+│                                                               │
+│  1. INGEST                                                    │
+│     Patient encounter data arrives (FHIR R4, encrypted)       │
+│     Consent state verified against PDPL requirements          │
+│                                                               │
+│  2. PROCESS                                                   │
+│     CII Layer 2-4: AI agents reason, document, code           │
+│     All computation in Saudi-hosted sovereign cloud            │
+│     No data leaves jurisdiction                               │
+│                                                               │
+│  3. EXTRACT INTELLIGENCE                                      │
+│     De-identified population analytics (Layer 6-7)            │
+│     Aggregated cost benchmarks (Layer 5)                      │
+│     Evidence patterns (Layer 1)                               │
+│     Clinical decision models (Layer 2-3)                      │
+│                                                               │
+│  4. MINIMIZE RAW DATA                                         │
+│     Patient-level data retained only as long as               │
+│     clinically and legally required                           │
+│     Intelligence persists; raw data minimizes                 │
+│     Cryptographic audit trail preserved                       │
+│                                                               │
+│  5. COMPOUND INTELLIGENCE                                     │
+│     De-identified models improve with each cycle              │
+│     Population-level insights are permanent assets            │
+│     No individual patient data needs to exist forever         │
+│     for the intelligence to compound                          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Why This Matters for Investors and Regulators
+
+| Stakeholder | Concern | Sovereign Compute Resolution |
+|-------------|---------|------------------------------|
+| **NCA (Cybersecurity)** | Permanent patient databases are breach targets | Intelligence persists; raw data minimizes — reduces attack surface |
+| **PDPL (Privacy)** | Data minimization and purpose limitation | Data processed only for stated purpose; retained only as required |
+| **SFDA (Clinical AI)** | AI must be auditable | Cryptographic computation proofs preserved; models auditable |
+| **Hospitals** | Liability for patient data breaches | CII's sovereign cloud reduces institutional liability |
+| **Investors** | Regulatory risk in health AI | Sovereign Compute is designed FOR regulators, not against them — compliance is a feature |
+
+### Sovereign Compute for Clinical Trials (Nama CRO Integration)
+
+When Nama CRO uses CII for cohort identification and real-world evidence generation:
+
+```
+CII identifies eligible patient cohort (de-identified criteria)
+    → Nama CRO designs study protocol
+    → Trial data processed in sovereign compute environment
+    → Results extracted as structured, publishable evidence
+    → Raw patient-level trial data retained per SFDA/GCP requirements
+    → Upon regulatory release, patient-level data minimized
+    → Population-level evidence persists as ecosystem asset
+```
+
+This architecture directly satisfies PDPL Article 10 (data minimization), PDPL Article 14 (purpose limitation), and NCA ECC (cybersecurity controls) — while allowing CII's intelligence to compound indefinitely.
+
+---
+
 ## WHY CII IS UNREPLICABLE
 
-CII's moat is **three-dimensional**:
+CII's moat is **four-dimensional**:
 
 1. **Data Sovereignty:** Real-world evidence from Saudi populations is irreplaceable — no foreign AI company has access to this data under NCA/PDPL governance.
 2. **Ecosystem Integration Depth:** CII receives data from and serves all 3 other groups simultaneously — switching costs compound across every integration point.
 3. **Compounding Intelligence:** Every day CII processes encounters, it becomes smarter. The intelligence gap is not a fixed lead — it widens with time.
+4. **Sovereign Compute Architecture:** CII's data governance model turns PDPL/NCA compliance from a constraint into a competitive advantage — regulators trust a system designed for minimization over one that hoards data.
 
 A competitor would need to simultaneously:
 - Build Arabic clinical NLP (2-3 years)
 - Generate Saudi population evidence (3-5 years)
 - Integrate with providers, payers, and researchers (2-3 years each)
 - Achieve regulatory trust (SFDA, CHI, NCA) for clinical AI (3-5 years)
+- Build a sovereign compute architecture that satisfies PDPL from Day 1 (1-2 years)
 
 CII's head start means the window for competition closes more each month.
 

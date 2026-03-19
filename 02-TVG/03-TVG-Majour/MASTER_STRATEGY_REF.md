@@ -94,12 +94,28 @@ Nexus MGA provides risk product (Month 15) → Complete financial stack deployed
 | PROMs-as-a-Service | Subscription per hospital/clinic |
 | Cost analytics | Subscription + per-analysis fee |
 | VBP contract design | Advisory + performance-based fees |
-| Shared savings participation | % of demonstrated savings |
+| **Gain-Share: VBC Shared Savings** | **15-25% of verified savings above MSR in CHI bundled payment programs** |
+| **Gain-Share: DRG Cost Optimization** | **15-25% of verified cost reductions from DRG-informed clinical pathway improvements** |
+
+### The Gain-Share Principle (Shared with Integra RCM)
+
+VBH Co operates the **Closed Loop Revenue Engine** alongside Integra RCM:
+
+```
+Code Accurately (Integra RCM) → Measure Outcomes (VBH Co) → Prove Savings (VBH Co)
+→ Share Gains (15-25% to TVG) → Repeat at Scale (quarterly compounding)
+```
+
+VBH Co's gain-share revenue comes from the outcomes and cost-of-care side:
+- **VBC Phase 2 (Shared Savings):** When a hospital achieves savings above the Minimum Savings Rate on CHI bundled payments, VBH Co earns a % of those verified savings as the measurement and contract design partner
+- **DRG Cost Optimization:** When DRG-based cost analytics reveal pathway inefficiencies and VBH Co's recommendations reduce cost-per-case, VBH Co earns a % of the demonstrated reduction
+
+**Revenue compounds quarterly** — each measurement cycle generates more data, which improves the models, which increases savings, which increases gain-share revenue.
 
 **Contribution to Group EBITDA:**
-- **Direct:** Advisory and analytics subscription revenue
-- **Stack value:** VBH Co is what transforms TVG from a billing company into a financial operating system — it justifies premium pricing for the entire TVG stack
-- **Evidence asset:** Outcomes data is the most valuable data type in healthcare — it proves whether interventions actually work
+- **Direct:** Advisory and analytics subscription revenue + gain-share revenue that scales with client value
+- **Stack value:** VBH Co is what transforms TVG from a billing company into a financial operating system — the gain-share model proves this transformation has measurable ROI
+- **Evidence asset:** Outcomes data is the most valuable data type in healthcare — it proves whether interventions actually work, and the gain-share model monetizes that proof directly
 
 ---
 

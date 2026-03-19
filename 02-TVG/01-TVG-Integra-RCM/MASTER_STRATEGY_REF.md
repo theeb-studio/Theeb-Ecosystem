@@ -306,16 +306,73 @@ ENTER → Revenue Recovery (immediate ROI)
 
 **Key metric for investors:** Every hospital that enters through Integra RCM becomes a pre-qualified pipeline for three additional revenue streams (VBH Co analytics, Nexus MGA insurance products, Nama Academy CDI training). Customer acquisition cost for TVG Layers 2-4 approaches zero.
 
-### Revenue Model
+### Revenue Model — The Gain-Share Engine
 
-| Revenue Stream | Type | Timing |
-|---------------|------|--------|
-| RCM operations (per-claim fee) | Recurring | Immediate |
-| DRG readiness advisory | Project-based | 2026-2028 |
-| CDI program implementation | Subscription + project | 2026+ |
-| VBC bundle operations | Subscription | 2027+ |
-| Pre-claim scoring (CII) | Per-claim fee | 2027+ |
-| Performance bonus (shared savings) | Success-based | Phase 2+ |
+Integra RCM operates a **hybrid revenue model** combining predictable SaaS-style fees with performance-based gain-share revenue that scales directly with client value delivered:
+
+| Revenue Stream | Type | Timing | Revenue Logic |
+|---------------|------|--------|---------------|
+| RCM operations (per-claim fee) | Recurring SaaS | Immediate | Predictable base revenue from Day 1 |
+| DRG readiness advisory | Project-based | 2026-2028 | One-time engagement fees |
+| CDI program implementation | Subscription + project | 2026+ | Monthly retainer + setup |
+| VBC bundle operations | Subscription | 2027+ | Per-bundle operational fee |
+| Pre-claim scoring (CII) | Per-claim fee | 2027+ | Volume-based, scales with encounters |
+| **Gain-Share: DRG Optimization** | **% of verified savings** | **Phase 2+** | **15-25% of revenue recovered through improved coding accuracy, reduced denials, and DRG optimization** |
+| **Gain-Share: VBC Shared Savings** | **% of verified savings** | **VBC Phase 2-3** | **15-25% of savings generated above MSR in CHI bundled payment programs** |
+
+### The Gain-Share Principle
+
+> **Revenue scales with client value, not headcount.**
+>
+> Traditional RCM companies charge per-claim fees regardless of impact. Integra RCM aligns incentives: the more savings we generate, the more we earn. This creates a **Closed Loop Revenue Engine** where performance compounds quarterly.
+
+**How it works:**
+
+```
+┌───────────────────────────────────────────────────────────────┐
+│            THE CLOSED LOOP REVENUE ENGINE                      │
+│                                                                │
+│  CODE ACCURATELY                                               │
+│  CII Layer 4-5 + Integra CDI → >95% coding accuracy           │
+│         │                                                      │
+│         ▼                                                      │
+│  MEASURE OUTCOMES                                              │
+│  VBH Co PROMs + DRG cost baselines → quantified value          │
+│         │                                                      │
+│         ▼                                                      │
+│  PROVE SAVINGS                                                 │
+│  Verified against baseline: denial reduction, DRG uplift,      │
+│  VBC shared savings above MSR                                  │
+│         │                                                      │
+│         ▼                                                      │
+│  SHARE GAINS                                                   │
+│  Integra + VBH Co earn 15-25% of verified savings              │
+│  Hospital keeps 75-85% → clear ROI demonstration               │
+│         │                                                      │
+│         ▼                                                      │
+│  REPEAT AT SCALE                                               │
+│  Savings compound quarterly. Each cycle generates more data.   │
+│  More data → better models → larger savings → higher gains.    │
+│         │                                                      │
+│         └──────────→ [LOOP REPEATS — REVENUE COMPOUNDS]        │
+└───────────────────────────────────────────────────────────────┘
+```
+
+**Gain-share revenue illustration:**
+
+| Hospital Procurement Budget | Integra Savings (15-20%) | Integra Gain-Share (25%) | Annual Revenue |
+|----------------------------|------------------------|------------------------|----------------|
+| SAR 100M | SAR 15-20M | SAR 3.75-5M | **SAR 3.75-5M** |
+| SAR 300M | SAR 45-60M | SAR 11.25-15M | **SAR 11.25-15M** |
+| SAR 500M | SAR 75-100M | SAR 18.75-25M | **SAR 18.75-25M** |
+
+*A single mid-size hospital contract generates SAR 5M+ annually in gain-share alone — on top of base SaaS fees. Revenue scales with client budget, not Integra headcount.*
+
+**Why this model is superior for investors:**
+1. **Alignment:** Integra only earns when the hospital saves — eliminates buyer resistance
+2. **Compounding:** Savings grow quarterly as CII models improve and data accumulates
+3. **Sticky:** Gain-share contracts are 3-5 year commitments — hospitals won't leave a savings engine
+4. **Scalable:** Revenue scales with procurement budgets served, not consultants deployed
 
 ---
 

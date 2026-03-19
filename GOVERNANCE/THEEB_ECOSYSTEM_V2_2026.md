@@ -61,7 +61,7 @@ THEEB ECOSYSTEM (THE CHESS PLAYER)
 |
 +-- 01 — TKG: THEEB KNOWLEDGE GROUP
 |   Know → The scientific credibility layer
-|   [Waraqa | Nama CRO | Nama Academy | Nama Bio | Evidence Platform]
+|   [Waraqa | Nama CRO | Nama Academy | Nama Bio | Evidence Platform | PubHelper]
 |
 +-- 02 — TVG: THEEB VALUE GROUP
 |   Value → The financial operating system
@@ -167,11 +167,24 @@ better clinical decisions → COMPOUNDING INTELLIGENCE.
 | Rule | Detail |
 |------|--------|
 | **Data Sovereignty** | All data stays in Saudi-hosted infrastructure (NCA ECC + PDPL compliant) |
+| **Sovereign Compute** | CII processes data under the "trust the intelligence, not the storage" principle — raw patient data is minimized after intelligence extraction; population-level insights persist as permanent assets; cryptographic audit trails preserved. Satisfies PDPL Articles 10 and 14. |
 | **Inter-Company Data Licensing** | Arm's length agreements between all entities; ZATCA-compliant transfer pricing |
 | **IP Ownership** | Each entity retains IP generated within its scope; ecosystem-level benchmarks are shared assets |
 | **FHIR R4 Mandate** | All clinical data must be exchangeable via FHIR R4 — no proprietary formats |
 | **De-identification** | All cross-entity data flows use de-identified, aggregated data unless patient consent obtained |
 | **Quality Standards** | Ecosystem-wide quality bar — one entity's poor delivery damages all |
+
+### The Closed Loop Revenue Engine (TVG Commercial Model)
+
+TVG monetizes value through a **gain-share model** where revenue scales with client outcomes:
+
+```
+Code Accurately (Integra RCM + CII) → Measure Outcomes (VBH Co)
+→ Prove Savings (verified against baseline) → Share Gains (15-25% to TVG)
+→ Repeat at Scale (quarterly compounding)
+```
+
+This model aligns incentives — TVG earns only when hospitals save — and creates compounding revenue that scales with procurement budgets served, not consultants deployed. A single SAR 300M hospital generates SAR 11-15M/year in gain-share revenue on top of base SaaS fees.
 
 ---
 
@@ -186,6 +199,7 @@ better clinical decisions → COMPOUNDING INTELLIGENCE.
 | Nama Academy | TKG-03 | TKG | Active | CDI training | Staff training | N/A | Yes — physician network |
 | Nama Bio | TKG-04 | TKG | Early Stage | N/A | N/A | N/A | Planned |
 | Evidence Platform | TKG-05 | TKG | In Development | Decision support | Clinical guidelines | Outcomes benchmarks | Yes — knowledge graph |
+| PubHelper | TKG-06 | TKG | Design Phase | Guideline evidence | Care pathway evidence | Meta-analyses for VBC | Yes — graded evidence |
 | Integra RCM | TVG-01 | TVG | Active | **PRIMARY** | Billing ops | Revenue data | Yes — claims data |
 | Nexus MGA | TVG-02 | TVG | Establishing | Risk models | N/A | Insurance design | Planned |
 | VBH Co | TVG-03 | TVG | Design Phase | DRG intelligence | VBP contracts | **PRIMARY** | Planned |
