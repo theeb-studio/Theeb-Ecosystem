@@ -140,6 +140,22 @@ Each journal has a **"Powered by PubHelper"** fast-track submission channel. Eve
 
 > **See:** `JOURNAL_ANCHORED_LIVE_EVIDENCE_PILOTS.md` for complete pilot design, data schemas, event-driven update pipeline, and evaluation metrics.
 
+### PHYSICIAN REPUTATION & KNOWLEDGE PLATFORM (Strategic Extension)
+
+Waraqa operates a **subscription-based physician career management platform** that transforms physicians into trusted medical voices, scientific contributors, and professional leaders. Three tiers:
+
+| Tier | Focus | Price Range | Ecosystem Connection |
+|------|-------|-------------|---------------------|
+| **Essential** | Digital presence + public education | SAR 2-4K/month | Evidence-based content powered by knowledge graph |
+| **Professional** | Reputation + media + conferences | SAR 5-8K/month | Nama Academy faculty pipeline |
+| **Academic** | Research + publication + promotion | SAR 8-15K/month | PubHelper research pipeline → Waraqa journals |
+
+**Why this is not a marketing agency:** No standalone agency has a 250,000+ node knowledge graph, three indexed journals, PubHelper, SCFHS-accredited CME, and an MGA insurance bundle. Every physician subscriber becomes connected across 6+ ecosystem entities for their entire 20-30 year career.
+
+**Revenue potential:** SAR 8.82M Year 1 (150 physicians) → SAR 30M Year 3 (500 physicians).
+
+> **See:** `PHYSICIAN_REPUTATION_PLATFORM.md` for complete platform architecture, subscription model, evidence-based content model, and ecosystem integration map.
+
 ---
 
 *Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-TVG/03-TVG-Majour/_INDEX.md",
+                "file": "01-TKG/05-TKG-Evidence-Platform/MASTER_STRATEGY_REF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_INDEX"
+              "title": "MASTER_STRATEGY_REF"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.5
   },
   "right": {
     "id": "6c00ca081331c618",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +196,10 @@
   },
   "active": "074f409556507e1e",
   "lastOpenFiles": [
+    "01-TKG/00-TKG-GROUP/_INDEX.md",
+    "01-TKG/01-TKG-Waraqa/MASTER_STRATEGY_REF.md.tmp.32704.1773888060645",
+    "01-TKG/01-TKG-Waraqa/PHYSICIAN_REPUTATION_PLATFORM.md",
+    "02-TVG/03-TVG-Majour/_INDEX.md",
     "01-TKG/00-TKG-GROUP/WORKFORCE_INTEGRATION_LOGIC.md",
     "01-TKG/03-TKG-Nama-Academy/01-Strategy/TKG-AKD-STR-Academy-Proposal-v1.docx",
     "01-TKG/03-TKG-Nama-Academy/04-Regulatory/TKG-AKD-REG-SHA-TC-Equipment-Requirements-2025.pdf",
@@ -208,7 +212,6 @@
     "01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md",
     "01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md.tmp.15692.1773879692546",
     "01-TKG/06-TKG-PubHelper/05-Products-Services",
-    "01-TKG/06-TKG-PubHelper/01-Strategy",
     "02-TVG/01-TVG-Integra-RCM/MASTER_STRATEGY_REF.md",
     "02-TVG/01-TVG-Integra-RCM/CHALLENGES_RESOLUTION_LOGIC.md",
     "02-TVG/01-TVG-Integra-RCM/_INDEX.md",
@@ -216,7 +219,6 @@
     "02-TVG/00-TVG-GROUP/_INDEX.md",
     "02-TVG/00-TVG-GROUP/01-Strategy/TVG-GROUP-STR-Strategic-Blueprint-v1.md",
     "01-TKG/01-TKG-Waraqa/_INDEX.md",
-    "01-TKG/00-TKG-GROUP/_INDEX.md",
     "00-TAK-ROOT/ECOSYSTEM-ORCHESTRATION-MODEL.md",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-Competitive-Intelligence-v1.md",
     "01-TKG/01-TKG-Waraqa/07-Research/TKG-WAR-RES-RFQ-Emails-Draft-v1.md",
@@ -229,9 +231,6 @@
     "Untitled.canvas",
     "2026-03-16.md",
     "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Ecosystem Architecture Overview.md",
-    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Founder Strategic Map.md",
-    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Cross-Group Flywheel.md",
-    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK 30-Year Vision.md",
-    "Theeb-Ecosystem/03-THDG/00-THDG-GROUP/01-Strategy/THDG-GROUP-STR-Well-Strategic-Blueprint-v1.md"
+    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Founder Strategic Map.md"
   ]
 }
