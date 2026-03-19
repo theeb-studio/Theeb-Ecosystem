@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-TKG/05-TKG-Evidence-Platform/MASTER_STRATEGY_REF.md",
+                "file": "04-TTG/00-TTG-GROUP/_INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MASTER_STRATEGY_REF"
+              "title": "_INDEX"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "074f409556507e1e",
   "lastOpenFiles": [
+    "GOVERNANCE/TECHNOLOGY_OWNERSHIP_ARCHITECTURE.md",
+    "GOVERNANCE/TECHNOLOGY_OWNERSHIP_ARCHITECTURE.md.tmp.32704.1773888406934",
+    "01-TKG/05-TKG-Evidence-Platform/_INDEX.md",
+    "01-TKG/05-TKG-Evidence-Platform/MASTER_STRATEGY_REF.md",
     "01-TKG/00-TKG-GROUP/_INDEX.md",
     "01-TKG/01-TKG-Waraqa/MASTER_STRATEGY_REF.md.tmp.32704.1773888060645",
     "01-TKG/01-TKG-Waraqa/PHYSICIAN_REPUTATION_PLATFORM.md",
@@ -211,7 +215,6 @@
     "GOVERNANCE/MASTER_FILES/12-PUBHELPER-MASTER_REF.md",
     "01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md",
     "01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md.tmp.15692.1773879692546",
-    "01-TKG/06-TKG-PubHelper/05-Products-Services",
     "02-TVG/01-TVG-Integra-RCM/MASTER_STRATEGY_REF.md",
     "02-TVG/01-TVG-Integra-RCM/CHALLENGES_RESOLUTION_LOGIC.md",
     "02-TVG/01-TVG-Integra-RCM/_INDEX.md",
@@ -229,8 +232,6 @@
     "00-TAK-ROOT/_INDEX.md",
     "03-THDG/06-THDG-Clinical-Ventures/CLV-03-Dawali-Vascular/_INDEX.md",
     "Untitled.canvas",
-    "2026-03-16.md",
-    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Ecosystem Architecture Overview.md",
-    "Theeb-Ecosystem-Vault/00 — FOUNDER ROOT/TAK Founder Strategic Map.md"
+    "2026-03-16.md"
   ]
 }
