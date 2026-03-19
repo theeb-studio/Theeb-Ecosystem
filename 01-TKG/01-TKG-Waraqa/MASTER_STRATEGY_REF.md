@@ -123,8 +123,23 @@ Waraqa's primary financial contribution is **threefold**:
 | Chess Player Deck (Slide 5) | `00-TAK-ROOT/2026-STRATEGIC-PITCH/THE_CHESS_PLAYER_DECK_CONTENT.md` |
 | Master Architecture | `00-TAK-ROOT/MASTER-ARCHITECTURE.md` — Part Two (TKG) |
 | Revenue Model | `01-TKG/01-TKG-Waraqa/03-Finance/TKG-WAR-FIN-Revenue-Model-v1.md` |
+| **Journal-Anchored Live Evidence Pilots** | `01-TKG/01-TKG-Waraqa/JOURNAL_ANCHORED_LIVE_EVIDENCE_PILOTS.md` |
+| **Live Guidelines Platform** | `01-TKG/00-TKG-GROUP/LIVE_GUIDELINES_PLATFORM.md` |
+
+### JOURNAL-TO-LIVE-EVIDENCE PIPELINE (Strategic Extension)
+
+Waraqa's three owned journals — **SJEM**, **PPHJ**, **IJMDC** — are now pilot entry points for the Live Guidelines Platform:
+
+| Journal | Pilot Theme | Live Guideline Output | TVG Connection |
+|---------|-------------|----------------------|----------------|
+| **SJEM** (Emergency Medicine) | Chest pain, sepsis, stroke pathways | 10-15 EM Live Guidelines | MNC criteria for ED services |
+| **PPHJ** (Population Health) | Diabetes prevention in working-age adults | Population-level intervention guidelines | VBC bundle design, employer benefits |
+| **IJMDC** (Developing Countries) | Sepsis in resource-limited hospitals | Context-tagged pragmatic guidelines | Global VBP knowledge export |
+
+Each journal has a **"Powered by PubHelper"** fast-track submission channel. Every published article auto-feeds into the Evidence Repository as a structured evidence asset — not just a PDF. Live Guidelines update automatically. MNC criteria derive transparently from guidelines. The three Theeb tracks (Knowledge → Value → Delivery) become one continuous pipeline.
+
+> **See:** `JOURNAL_ANCHORED_LIVE_EVIDENCE_PILOTS.md` for complete pilot design, data schemas, event-driven update pipeline, and evaluation metrics.
 
 ---
 
 *Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework*
-*No legacy names (TRG, SCIG, NAMA Knowledge, Majour) appear in this document.*
