@@ -1,19 +1,25 @@
 # NAMA BIOEQUIVALENCE CENTER — MASTER STRATEGY REFERENCE
 **Entity: TKG-04 | Group: Theeb Knowledge Group (TKG)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework**
-**Version 1.0 | March 2026 | Confidential**
+**Informed by: Company Profile, Financial Projections, KFSHI MOU, KSU MOU, SFDA License, Pharma-Bridge Concept**
+**Version 2.0 | March 2026 | Confidential**
+
+---
+
+> **THESIS:** Saudi Arabia imports virtually all bioequivalence studies — forcing pharma companies abroad, inflating costs, delaying SFDA approvals, and surrendering national pharmacokinetic data sovereignty. Nama Bio closes this gap as the **first and only SFDA-accredited BE center in KSA**, operating a zero-capex tri-party model (NAMA ops + CARE Medical clinical + KSU/KFSHI bioanalytical) that generates irreplaceable Saudi population PK data with every study.
 
 ---
 
 ## 1. STRATEGIC MISSION
 
-Nama Bio is the **drug localization engine** of the Theeb Ecosystem — providing SFDA-regulated bioequivalence studies that support Vision 2030's pharmaceutical sovereignty agenda. In the 2026 logic:
+Nama Bio is the **drug localization engine** of the Theeb Ecosystem — the entity that directly serves Vision 2030's pharmaceutical sovereignty agenda. In the 2026 logic:
 
-1. **Saudi Population PK Data:** Generates irreplaceable pharmacokinetic data on Saudi populations — a data asset that compounds with every study.
-2. **NIDLP Alignment:** Directly supports the National Industrial Development and Logistics Program's pharmaceutical manufacturing targets.
-3. **Zero-Capex Model:** 40-bed clinical ward from CARE Medical + bioanalytics from KSU = asset-light infrastructure at zero capex.
+1. **Pharmaceutical Sovereignty:** 206 pharma factories operate in KSA. SAR 7+ billion invested. Government targets 80-90% local production. Every local manufacturer needs BE data — currently outsourced abroad.
+2. **First-Mover Regulatory Position:** SFDA CRO license CT-2025-DR-0002 (issued 26-Nov-2025, valid to 18-Nov-2030). One of the first fully operational local BE centers — a 3-5 year barrier for competitors.
+3. **Tri-Party Zero-Capex Model:** Clinical ward from CARE Medical + bioanalytics from KSU (MOU to 31-Dec-2030) and KFSHI (signed MOU) = zero lab and clinical capex. 80-85% capex reduction vs. standalone center.
+4. **Population Data Asset:** Every BE study generates Saudi-specific PK data — irreplaceable, accumulating, feeding the Evidence Platform's knowledge graph.
 
-**Chess Player Role:** Nama Bio is a specialized piece that occupies the drug localization square — a niche no other ecosystem entity covers and no competitor has the partnerships to replicate quickly.
+**Chess Player Role:** Nama Bio occupies the drug localization square — high-barrier (regulatory), specialized, generating a unique data asset that appreciates over time. It anchors the broader Pharma-Bridge platform concept connecting clinical research to pharmaceutical manufacturing.
 
 ---
 
@@ -21,57 +27,167 @@ Nama Bio is the **drug localization engine** of the Theeb Ecosystem — providin
 
 | Moat Dimension | Detail | Replication Timeline |
 |---------------|--------|---------------------|
-| **SFDA BE Accreditation** | Application filed — one of a handful in KSA | 3-5 years |
-| **Partner Infrastructure** | CARE Medical (ward) + KSU (bioanalytics) = zero capex | Partnership-dependent |
-| **Saudi PK Data** | Population-specific pharmacokinetic data — irreplaceable and accumulating | Compounds over time |
-| **Government Grant Funded** | 2M SAR grant — no equity dilution, 100% ownership | Non-dilutive |
+| **SFDA License** | CT-2025-DR-0002 (valid to 18-Nov-2030) | 3-5 years for new entrant |
+| **Tri-Party Infrastructure** | CARE Medical (ward) + KSU (bioanalytical, MOU to 2030) + KFSHI (signed MOU) | 2-3 years to replicate |
+| **Saudi PK Data** | Population-specific PK data compounds with every study | Irreversible |
+| **First-Mover** | First fully operational local BE center in KSA | Window advantage |
+| **Zero External Equity** | SAR 7.28M entrepreneur equity — 100% retained | Structural |
+| **Vision 2030 Alignment** | NIDLP pharmaceutical localization | Government tailwind |
+| **GCC/MENA Expansion** | Regional positioning (UAE, Kuwait, Bahrain, Oman, Qatar, Egypt) | Geographic advantage |
 
 ---
 
-## 3. ECOSYSTEM INTERFACE
+## 3. TRI-PARTY OPERATING MODEL
 
-### 3A. INPUTS
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              NAMA BIO TRI-PARTY ARCHITECTURE                      │
+│                                                                    │
+│  ┌─────────────────────┐                                          │
+│  │   NAMA MEDICAL       │  Operations Engine                      │
+│  │   SFDA License:      │  Study design, protocol, recruitment,   │
+│  │   CT-2025-DR-0002    │  QMS, data mgmt, biostatistics,         │
+│  │                      │  pharmacovigilance, BD                   │
+│  └──────────┬───────────┘                                          │
+│        ┌────┴────┐                                                 │
+│        ▼         ▼                                                 │
+│  ┌──────────┐  ┌───────────────┐                                  │
+│  │  CARE    │  │  KSU / KFSHI   │                                  │
+│  │  MEDICAL │  │  (Bioanalytical)│                                 │
+│  │(Clinical)│  │                │                                  │
+│  │ 40-bed   │  │ KSU MOU:       │                                  │
+│  │ ward     │  │ Jan 2025 -     │                                  │
+│  │ ZERO     │  │ Dec 2030       │                                  │
+│  │ CAPEX    │  │ ZERO CAPEX     │                                  │
+│  └──────────┘  └───────────────┘                                  │
+│                                                                    │
+│  Standalone center capex: SAR 30-50M                               │
+│  Nama Bio tri-party capex: SAR 5M (85% savings)                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-| Source Entity | Data/Resource Received |
-|--------------|----------------------|
-| CARE Medical (external) | 40-bed clinical ward (3-5yr partnership) |
-| KSU College of Medicine (external) | Bioanalytical laboratory services |
-| Nama CRO (TKG-02) | Shared regulatory expertise and research infrastructure |
-| Evidence Platform (TKG-05) | Drug localization priorities from evidence gap analysis |
+### Partnership Summary
 
-### 3B. OUTPUTS
+| Partner | Status | Term | Services |
+|---------|--------|------|----------|
+| **CARE Medical** | Service Agreement (advanced) | 3-5 year | Clinical ward, subject housing, dosing, blood sampling |
+| **KSU** | MOU signed 19-Dec-2024 | Jan 2025 - Dec 2030 | Bioanalytical unit, lab infrastructure, sample analysis |
+| **KFSHI** | MOU signed | Active | Bioanalytical services, R&D support |
 
-| Output | Recipient(s) | Intelligence Layer Impact |
-|--------|-------------|--------------------------|
-| Pharmacokinetic/pharmacodynamic data | Evidence Platform knowledge graph | Saudi-specific drug data for clinical decision support |
-| BE study results | Waraqa (TKG-01) | Peer-reviewed publication of drug data |
-| Drug-specific population data | CII (TTG) | Clinical intelligence for prescribing decisions |
-| SFDA regulatory submissions | Regulatory ecosystem | Builds regulatory moat |
+### KSU MOU — Reciprocal Value
+
+NAMA provides KSU: SFDA accreditation support, QA auditing, clinical unit for studies, CRO services for KSU investigator-initiated studies.
+KSU provides NAMA: Bioanalytical infrastructure, lab personnel, academic collaboration, shared publications.
 
 ---
 
-## 4. 2026 READINESS PLAN
+## 4. SERVICES
 
-| Task | Timeline | Target |
-|------|----------|--------|
-| Formalize CARE Medical partnership (3-5yr agreement) | Month 2 | Clinical ward secured |
-| Formalize KSU bioanalytics partnership (3-5yr agreement) | Month 2 | Lab services secured |
-| Begin first 3 BE studies | Month 3 | Revenue generation starts |
-| SFDA accreditation process advancement | H2 2026 | 5-8 studies completed |
-| Reach breakeven | H2 2026 | Self-sustaining operations |
+| Category | Capabilities |
+|----------|-------------|
+| **BE Studies** | Fasting, fed, steady-state; SFDA/ICH-GCP compliant; protocol development; sample size calculation |
+| **Bioanalytical** | Method development/validation (KSU/KFSHI); LC-MS/MS; PK/PD data |
+| **CTU** | Subject housing, controlled dosing, blood sampling, compliance monitoring |
+| **Regulatory** | SFDA submission support, regulatory-ready documentation |
+| **Training** | BE workforce development (via Nama Academy integration) |
+
+**Pricing:** SAR 300-450K per standard BE study ($80-120K)
 
 ---
 
-## 5. FINANCIAL LOGIC
+## 5. FINANCIAL PROJECTIONS (SAR — Validated Model)
 
-| Metric | Year 1 | Year 5 |
-|--------|--------|--------|
-| Revenue | $2.7M | $15.7M |
-| EBITDA Margin at Scale | — | 44% |
-| Studies to breakeven | 5-8 | — |
-| Price per BE study | $80-120K | $80-120K |
+| Metric | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 |
+|--------|------|------|------|------|------|------|
+| **Revenue** | 2.7M | 4.5M | 8.1M | 10.2M | 13.7M | 15.8M |
+| **EBITDA** | -242K | 706K | 2.2M | 3.0M | 5.5M | 6.3M |
+| **EBITDA %** | -9% | 16% | 28% | 29% | 40% | 40% |
+| **Net Income** | -727K | 138K | 1.6M | 2.2M | 4.7M | 5.3M |
+| **Studies** | ~6 | ~10 | ~18 | ~23 | ~30 | ~35 |
 
-**Funding:** 2M SAR government grant — sufficient to reach breakeven. No external equity required. 100% ownership retained.
+**Equity:** SAR 7.28M total (100% founder-retained). No external equity. Self-sustaining by Year 2.
+
+**Cash position by 2031:** SAR 15.2M
+
+---
+
+## 6. MARKET CONTEXT
+
+| Metric | Value |
+|--------|-------|
+| Global BE market (2023) | USD 727.4M → USD 1.25-1.45B by 2030 (7.5% CAGR) |
+| Middle East BE market by 2030 | USD 30.5M |
+| Saudi generic drug market | USD 3.37B (2023) → USD 5.32B by 2031 (6% CAGR) |
+| Local pharma factories | 206 operating |
+| Sector investment | SAR 7+ billion ($1.87B) |
+| Localization target | 80-90% of government healthcare needs |
+
+---
+
+## 7. PHARMA-BRIDGE PLATFORM (Strategic Extension)
+
+Nama Bio anchors **Pharma-Bridge** — an integrated R&D + manufacturing platform concept:
+
+| Pillar | Function | Ecosystem Entity |
+|--------|----------|-----------------|
+| Applied R&D & Formulation | Molecules → stable formulations | Pharma-Bridge hub |
+| Smart Pilot Manufacturing | Small-batch clinical/market batches (TRL 7-8) | Manufacturing partner |
+| Clinical Validation | BE studies + Phase I trials | **Nama Bio + Nama CRO** |
+| Evidence Generation | Scientific publishing of local evidence | **Waraqa** |
+| Market Access | Distribution through healthcare platform | Ecosystem distribution |
+
+**Strategic significance:** Elevates Nama Bio from testing lab to critical node in Saudi pharmaceutical value chain.
+
+---
+
+## 8. ECOSYSTEM INTERFACE
+
+### INPUTS
+
+| Source | Received |
+|--------|----------|
+| CARE Medical | 40-bed clinical ward (service agreement) |
+| KSU | Bioanalytical lab (MOU to 2030) |
+| KFSHI | Bioanalytical services and R&D (signed MOU) |
+| Nama CRO (TKG-02) | Shared regulatory expertise, SFDA license |
+| Evidence Platform (TKG-05) | Drug localization priorities |
+| Nama Academy (TKG-03) | BE workforce training |
+
+### OUTPUTS
+
+| Output | Recipient | Impact |
+|--------|-----------|--------|
+| Saudi PK/PD data | Evidence Platform | Irreplaceable population drug data |
+| BE study results | Waraqa (TKG-01) | Publications of local drug evidence |
+| Drug intelligence | CII (TTG) | Prescribing intelligence for clinical agents |
+| SFDA submissions | Regulatory ecosystem | Builds regulatory moat |
+| Formulation data | Pharma-Bridge | Supports generic manufacturing |
+| Training demand | Nama Academy | BE workforce development |
+
+---
+
+## 9. 2026 OPERATIONAL LAUNCH PLAN
+
+| Milestone | Timeline | Status |
+|-----------|----------|--------|
+| Core team & feasibility | Dec 2024 - Feb 2025 | ✅ Complete |
+| Legal & partnerships (KFSHI, KSU, CARE) | Jan - Apr 2025 | ✅ MOUs signed |
+| Co-branding & regulatory identity | Mar - May 2025 | ✅ In progress |
+| Facility planning & SOPs/QMS | Apr - Jul 2025 | ✅ In progress |
+| Civil work & equipment | Jul - Dec 2025 | 🔄 In progress |
+| SFDA CRO registration | Nov 2025 | ✅ License obtained |
+| System activation (QMS, EDC, PK software) | Nov 2025 - Jan 2026 | 🔄 In progress |
+| **CENTER LAUNCH** | **Apr-May 2026** | ⏳ Planned |
+| 10 pilot BE studies | May - Dec 2026 | ⏳ Planned |
+| SAR 2M strategic funding injection | Q1-Q2 2026 | ⏳ Pending |
+
+### Geographic Expansion
+
+| Phase | Market | Timeline |
+|-------|--------|----------|
+| Phase 1 | Saudi Arabia | 2026-2027 |
+| Phase 2 | GCC (UAE, Kuwait, Bahrain, Oman, Qatar) | 2028-2029 |
+| Phase 3 | EMEA (Egypt, broader region) | 2030+ |
 
 ---
 
@@ -80,8 +196,12 @@ Nama Bio is the **drug localization engine** of the Theeb Ecosystem — providin
 | Document | Location |
 |----------|----------|
 | Master Reference File | `GOVERNANCE/MASTER_FILES/04-NAMA-BIO-CENTER-MASTER_REF.md` |
-| Chess Player Deck (Slide 5) | `00-TAK-ROOT/2026-STRATEGIC-PITCH/THE_CHESS_PLAYER_DECK_CONTENT.md` |
+| V2 Framework | `GOVERNANCE/THEEB_ECOSYSTEM_V2_2026.md` |
+| TKG Flywheel | `01-TKG/00-TKG-GROUP/GROUP_FLYWHEEL_LOGIC.md` |
+
+**SOURCE DOCUMENTS:** Company Profile, Financial Projections (SAR), Financial Statement (SAR), Project Status, KFSHI MOU (signed), KSU MOU v1.0 (19-Dec-2024), SFDA License CT-2025-DR-0002, Pharma-Bridge Platform concept, NAMA BIOxCARE Profile, Pitch Deck (v3), BE Project Application Forms, NAMA CTU Brochure.
 
 ---
 
 *Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework*
+*Version 2.0 — Updated with real operational data from 30+ reference documents*

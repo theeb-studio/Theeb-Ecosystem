@@ -54,9 +54,14 @@ The Evidence Platform is the **digital backbone of Saudi healthcare workforce ca
 | Knowledge graph data | CII (TTG) | Foundation layer for all clinical AI reasoning |
 | Clinical decision support | Welunion clinics (THDG) | Evidence-based care at point of care |
 | CME tracking / Learning Passport | Nama Academy (TKG-03) + SCFHS | Digital CME delivery and compliance |
-| Evidence gap identification | Nama CRO (TKG-02), Waraqa (TKG-01) | Research priority generation |
+| Evidence gap identification | Nama CRO (TKG-02), Waraqa (TKG-01), PubHelper (TKG-06) | Research priority generation |
 | Institutional analytics (heatmaps) | Hospital clients | Knowledge gap identification per institution |
 | MNC decision workflows | All providers | Insurance justification at clinical decision point |
+| **Live Guidelines** | Clinicians, CHI, payers | Continuously updated Saudi-specific clinical guidelines per condition — integrating global evidence + local PubHelper research + society expert consensus |
+| **Medical Necessity Criteria** | CHI, payers, Integra RCM, VBH Co | Machine-readable MNC derived transparently from Live Guidelines — supporting pre-auth, VBC bundle design, and coding justification |
+| **PubHelper Integration** | PubHelper (TKG-06) | Evidence gaps detected → research questions generated → PubHelper executes → results auto-update Live Guidelines |
+
+> **See also:** `01-TKG/00-TKG-GROUP/LIVE_GUIDELINES_PLATFORM.md` — the complete architecture of the Saudi Live Guidelines & Medical Necessity Platform, powered by the Evidence Platform and PubHelper.
 
 ---
 
