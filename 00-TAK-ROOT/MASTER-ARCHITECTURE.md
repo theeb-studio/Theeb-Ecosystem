@@ -97,7 +97,7 @@ TKG
 │          │ Future: Will become an independent entity
 │          │ Status: In development → transitioning to independence
 │
-└── TKG-06 │ PubHelper
+    NOTE: PubHelper (Waraqa service line / Saudi Evidence module)
            │ AI-powered research factory — converts clinical questions
            │ from THDG practitioners into structured, graded, publishable
            │ evidence assets. 8-module system: Intake → Protocol →
@@ -105,6 +105,8 @@ TKG
            │ → Marketplace. Uses CII NLP engine for Arabic-first processing.
            │ Applies Sovereign Evidence Grading Rubric (Level 1-5) as
            │ quality gate before any output enters the Shared Intelligence Layer.
+           │ PubHelper is a Waraqa (TKG-01) service line since 2020;
+           │ its digital interface is a module within Saudi Evidence (TKG-05).
            │ Status: Design and build phase
 ```
 

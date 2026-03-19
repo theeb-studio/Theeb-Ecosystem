@@ -199,7 +199,7 @@ This model aligns incentives — TVG earns only when hospitals save — and crea
 | Nama Academy | TKG-03 | TKG | Active | CDI training | Staff training | N/A | Yes — physician network |
 | Nama Bio | TKG-04 | TKG | Early Stage | N/A | N/A | N/A | Planned |
 | Evidence Platform | TKG-05 | TKG | In Development | Decision support | Clinical guidelines | Outcomes benchmarks | Yes — knowledge graph |
-| PubHelper | TKG-06 | TKG | Design Phase | Guideline evidence | Care pathway evidence | Meta-analyses for VBC | Yes — graded evidence |
+| PubHelper | TKG-01 (service) | TKG | Design Phase | Guideline evidence | Care pathway evidence | Meta-analyses for VBC | Yes — graded evidence |
 | Integra RCM | TVG-01 | TVG | Active | **PRIMARY** | Billing ops | Revenue data | Yes — claims data |
 | Nexus MGA | TVG-02 | TVG | Establishing | Risk models | N/A | Insurance design | Planned |
 | VBH Co | TVG-03 | TVG | Design Phase | DRG intelligence | VBP contracts | **PRIMARY** | Planned |

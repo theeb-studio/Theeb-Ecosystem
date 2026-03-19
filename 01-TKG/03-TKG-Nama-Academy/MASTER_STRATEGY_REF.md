@@ -211,7 +211,7 @@ PHYSICIAN COMPLETES NAMA ACADEMY TRAINING
 |----------|----------|
 | Master Reference File | `GOVERNANCE/MASTER_FILES/03-NAMA-ACADEMY-MASTER_REF.md` |
 | Integra RCM CDI Pipeline | `02-TVG/01-TVG-Integra-RCM/MASTER_STRATEGY_REF.md` |
-| PubHelper Integration | `01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md` |
+| PubHelper Integration | Waraqa service line — see `01-TKG/01-TKG-Waraqa/` |
 | TKG Flywheel Logic | `01-TKG/00-TKG-GROUP/GROUP_FLYWHEEL_LOGIC.md` |
 
 ---

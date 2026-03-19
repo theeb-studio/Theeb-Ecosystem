@@ -1,6 +1,6 @@
 # PUBHELPER → EVIDENCE PLATFORM AUTOMATED PIPELINE
 ## Integration Specification: How Research Becomes Live Clinical Intelligence
-**Entities: TKG-06 (PubHelper) → TKG-05 (Evidence Platform) → Live Guidelines → MNC Criteria**
+**Entities: PubHelper (Waraqa service line / Saudi Evidence module) → TKG-05 (Evidence Platform) → Live Guidelines → MNC Criteria**
 **Version 1.0 | March 2026 | Confidential**
 
 ---

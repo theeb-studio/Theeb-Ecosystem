@@ -1,6 +1,6 @@
 # PHYSICIAN REPUTATION & KNOWLEDGE PLATFORM
 ## Subscription-Based Career Management Infrastructure for Physicians
-**Entity: TKG-01 (Waraqa) | Integrated with: Nama Academy (TKG-03), Evidence Platform (TKG-05), PubHelper (TKG-06)**
+**Entity: TKG-01 (Waraqa) | Integrated with: Nama Academy (TKG-03), Evidence Platform (TKG-05), PubHelper (Waraqa service line / Saudi Evidence module)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework**
 **Version 1.0 | March 2026 | Confidential**
 
@@ -159,7 +159,7 @@ PHYSICIAN SUBSCRIBES TO REPUTATION PLATFORM
     │    → Physician becomes trusted → societies invite as faculty
     │
     ├──► Domain 3 (Academic)
-    │    Research needs routed to PubHelper (TKG-06)
+    │    Research needs routed to PubHelper (Waraqa service line)
     │    → Systematic review produced
     │    → Published in Waraqa journal (SJEM, PPHJ, IJMDC)
     │    → Feeds Live Guidelines Platform
@@ -292,7 +292,7 @@ This network becomes a **strategic asset** for:
 |----------|----------|
 | Waraqa Strategy | `01-TKG/01-TKG-Waraqa/MASTER_STRATEGY_REF.md` |
 | Journal-Anchored Live Evidence Pilots | `01-TKG/01-TKG-Waraqa/JOURNAL_ANCHORED_LIVE_EVIDENCE_PILOTS.md` |
-| PubHelper (research engine) | `01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md` |
+| PubHelper (research engine) | Waraqa service line — see `01-TKG/01-TKG-Waraqa/` |
 | Evidence Platform (knowledge backbone) | `01-TKG/05-TKG-Evidence-Platform/MASTER_STRATEGY_REF.md` |
 | Workforce Integration Logic | `01-TKG/00-TKG-GROUP/WORKFORCE_INTEGRATION_LOGIC.md` |
 | Live Guidelines Platform | `01-TKG/00-TKG-GROUP/LIVE_GUIDELINES_PLATFORM.md` |

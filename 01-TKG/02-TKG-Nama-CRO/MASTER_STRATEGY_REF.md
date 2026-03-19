@@ -225,7 +225,7 @@ Generates high-quality real-world data for market access, value dossiers, payer 
 | Welunion (THDG) | Clinical research sites; patient recruitment from 71-clinic network |
 | TTG-CII | Cohort identification (Layer 6); AI documentation support (Layer 4) |
 | Evidence Platform (TKG-05) | Evidence gaps driving research priorities |
-| PubHelper (TKG-06) | Systematic review requests; research question pipeline |
+| PubHelper (Waraqa service line) | Systematic review requests; research question pipeline |
 | Waraqa (TKG-01) | Publication management via inter-company SLA |
 | Nama Bio (TKG-04) | Shared regulatory expertise; SFDA license coordination |
 | Scientific Societies | Expert PIs via Waraqa partnerships |
@@ -339,7 +339,7 @@ NAMA BUILDS CTU AT HOSPITAL X
 | V2 Framework | `GOVERNANCE/THEEB_ECOSYSTEM_V2_2026.md` |
 | TKG Flywheel | `01-TKG/00-TKG-GROUP/GROUP_FLYWHEEL_LOGIC.md` |
 | Live Guidelines Platform | `01-TKG/00-TKG-GROUP/LIVE_GUIDELINES_PLATFORM.md` |
-| PubHelper | `01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md` |
+| PubHelper | Waraqa service line — see `01-TKG/01-TKG-Waraqa/` |
 | Nama Bio (shared SFDA license) | `01-TKG/04-TKG-Bio-Center/MASTER_STRATEGY_REF.md` |
 
 **SOURCE DOCUMENTS:** Pitch Deck V3, Milestone Agreement Schedule (26-Jan-2026), NAMA Medical Company Profile (PPTX), NAMA CTU Brochure, Flyer, NAMA CRO Financial Model (XLSX), Use of Funds (XLSX).

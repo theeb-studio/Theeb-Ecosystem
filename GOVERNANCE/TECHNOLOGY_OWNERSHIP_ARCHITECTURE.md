@@ -116,7 +116,7 @@ Each entity owns its **domain-specific product interface** — the user-facing a
 | **Integra RCM (TVG-01)** | Claims dashboard, DRG analysis tools, denial analytics, VBC bundle operations, CDI workflows | CII Layer 4-5 (documentation + pre-claim), FHIR Gateway, Sovereign Cloud |
 | **Welunion (THDG)** | WellTech: EHR, patient app, telemedicine, booking, CDM tracking | CII Layer 3 (clinical decision support), FHIR Gateway, SSO, Sovereign Cloud |
 | **Nama Academy (TKG-03)** | LMS, course management, simulation booking, AaaS dashboard, CME tracking integration | SSO (shared physician identity), Sovereign Cloud, Knowledge Graph (CME content) |
-| **PubHelper (TKG-06)** | Research intake, project management, analysis workbench, writing studio, publication management | CII NLP (Arabic clinical NLP for writing), Knowledge Graph (gap detection), Sovereign Cloud |
+| **PubHelper (Waraqa service line / Saudi Evidence module)** | Research intake, project management, analysis workbench, writing studio, publication management | CII NLP (Arabic clinical NLP for writing), Knowledge Graph (gap detection), Sovereign Cloud |
 | **VBH Co (TVG-03)** | PROMs collection interface, cost analytics dashboard, VBC contract builder | CII Layer 6-7 (population analytics), FHIR Gateway, Sovereign Cloud |
 | **Nexus MGA (TVG-02)** | Underwriting models, insurance product design tools, malpractice + CME bundle management | CII population analytics, Sovereign Cloud |
 | **Waraqa (TKG-01)** | Journal management systems, editorial workflow, Physician Reputation Platform | Knowledge Graph (content), CII NLP (evidence classification), Sovereign Cloud |

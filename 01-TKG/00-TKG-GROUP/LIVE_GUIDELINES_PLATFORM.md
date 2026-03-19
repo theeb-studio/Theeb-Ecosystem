@@ -1,6 +1,6 @@
 # SAUDI LIVE GUIDELINES & MEDICAL NECESSITY PLATFORM
 ## The Knowledge-to-Value Pipeline
-**Group: TKG | Powered by: Evidence Platform (TKG-05) + PubHelper (TKG-06)**
+**Group: TKG | Powered by: Evidence Platform (TKG-05) + PubHelper (Waraqa service line / Saudi Evidence module)**
 **Feeds: TVG (Value-Added Track) + THDG (Service Delivery Track)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework**
 **Version 1.0 | March 2026 | Confidential**
@@ -154,8 +154,8 @@ knowledge graph               ──►    Integra RCM uses MNC for
 
 ```
 CLINICIAN asks a question (THDG)
-    → PubHelper converts to research project (TKG-06)
-    → Nama CRO/PubHelper produces systematic review (TKG-02/06)
+    → PubHelper converts to research project (Waraqa service line)
+    → Nama CRO/PubHelper produces systematic review (TKG-02 / Waraqa service line)
     → Waraqa publishes in local journal (TKG-01)
     → Evidence Platform indexes into knowledge graph (TKG-05)
     → Live Guidelines Platform updates the relevant guideline
@@ -209,11 +209,11 @@ For each condition, the MNC Generator produces:
 
 ### What PubHelper Does Within This Architecture
 
-PubHelper (TKG-06) is the **operational engine** that converts clinical questions into the local evidence that the Live Guidelines Platform needs:
+PubHelper (Waraqa service line / Saudi Evidence module) is the **operational engine** that converts clinical questions into the local evidence that the Live Guidelines Platform needs:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    PUBHELPER (TKG-06)                         │
+│              PUBHELPER (Waraqa service line)                   │
 │            AI-Powered Research Factory                        │
 │                                                               │
 │  INPUT:                                                       │
@@ -354,7 +354,7 @@ RESULT: Structured longevity evidence base
 | Impact | Entity | Mechanism |
 |--------|--------|-----------|
 | **National evidence backbone** | Evidence Platform (TKG-05) | Live Guidelines become the knowledge graph's highest-value content |
-| **Research pipeline** | PubHelper (TKG-06) | Evidence gaps drive systematic research production |
+| **Research pipeline** | PubHelper (Waraqa service line) | Evidence gaps drive systematic research production |
 | **Publication output** | Waraqa (TKG-01) | Guideline updates published in local indexed journals |
 | **Society engagement** | Nama Academy (TKG-03) | Societies provide editorial review; faculty teach guideline content |
 | **VBC contract design** | VBH Co (TVG-03) | MNC criteria define what gets paid in bundled payments |
@@ -368,7 +368,7 @@ RESULT: Structured longevity evidence base
 
 ```
 CLINICIAN QUESTION (THDG)
-    → PubHelper research (TKG-06)
+    → PubHelper research (Waraqa service line)
     → Waraqa publication (TKG-01)
     → Evidence Platform indexing (TKG-05)
     → Live Guideline update

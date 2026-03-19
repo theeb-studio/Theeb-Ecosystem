@@ -1,6 +1,6 @@
 # JOURNAL-ANCHORED LIVE EVIDENCE PILOTS
 ## Three Journals × Three Pilots × One Live Evidence Pipeline
-**Entity: TKG-01 (Waraqa) | Powered by: PubHelper (TKG-06) + Evidence Platform (TKG-05)**
+**Entity: TKG-01 (Waraqa) | Powered by: PubHelper (Waraqa service line) + Evidence Platform (TKG-05)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Live Guidelines Platform Architecture**
 **Version 1.0 | March 2026 | Confidential**
 
@@ -31,7 +31,7 @@
 │         │                                                                │
 │         ▼                                                                │
 │  ┌─────────────────────────────────────────────┐                        │
-│  │              PUBHELPER (TKG-06)               │                        │
+│  │        PUBHELPER (Waraqa service line)         │                        │
 │  │         AI-Powered Research Engine            │                        │
 │  │                                               │                        │
 │  │  Question → PICO → Protocol → Data →          │                        │
@@ -362,7 +362,7 @@ EVENT: PubHelper project PH-2026-EM-007 completed
 | Document | Location |
 |----------|----------|
 | Live Guidelines Platform | `01-TKG/00-TKG-GROUP/LIVE_GUIDELINES_PLATFORM.md` |
-| PubHelper Strategy | `01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md` |
+| PubHelper Strategy | Waraqa service line — see `01-TKG/01-TKG-Waraqa/` |
 | Evidence Platform Strategy | `01-TKG/05-TKG-Evidence-Platform/MASTER_STRATEGY_REF.md` |
 | Waraqa Strategy | `01-TKG/01-TKG-Waraqa/MASTER_STRATEGY_REF.md` |
 
