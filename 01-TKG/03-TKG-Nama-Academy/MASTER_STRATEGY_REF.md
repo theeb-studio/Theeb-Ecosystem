@@ -1,19 +1,27 @@
 # NAMA ACADEMY — MASTER STRATEGY REFERENCE
 **Entity: TKG-03 | Group: Theeb Knowledge Group (TKG)**
 **Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework**
-**Version 1.0 | March 2026 | Confidential**
+**Informed by: SHA Life Support Policy | SHA TC Requirements 2025 | Academy Proposal | Company Profile**
+**Version 2.0 | March 2026 | Confidential**
+
+---
+
+> **THESIS:** Nama Academy is the **human capability layer** of a unified workforce system where the Evidence Platform is the digital backbone. Together, they capture every healthcare professional in Saudi Arabia into a single system that manages their training, tracks their competency, delivers their clinical intelligence, and supports their research — for a 30-40 year career. No other entity has a lower cost to acquire a lifetime relationship with a healthcare professional.
 
 ---
 
 ## 1. STRATEGIC MISSION
 
-Nama Academy is the **physician network acquisition engine** of the Theeb Ecosystem — the entity that captures the most valuable distribution channel in healthcare (physician attention and trust) through mandated SCFHS-accredited training. In the 2026 logic:
+Nama Academy is the **human capability layer** of the Theeb Ecosystem's unified workforce system. The Evidence Platform provides the digital backbone; Nama Academy provides the training, content, faculty, and quality assurance. Together, they are inseparable. In the 2026 logic:
 
-1. **Zero-CAC Distribution:** Every physician trained receives an Evidence Platform account — building a 2,000+/year user pipeline at $0 customer acquisition cost.
-2. **Society Revenue Engine:** Co-organizes conferences and delivers CME for scientific societies, generating revenue while locking in faculty networks.
-3. **Insurance Product Enabler:** Provides the CME fulfillment component of the Nexus MGA malpractice + CME bundle — creating a unique cross-group product.
+1. **Unified Workforce System (with Evidence Platform):** Nama Academy and the Evidence Platform are not two separate entities with a handoff — they are one integrated capability system. Nama delivers the training; the Evidence Platform hosts the CME, tracks the Learning Passport, maps competencies, delivers clinical decision support, and captures research questions. Every healthcare professional lives inside this system from graduation to retirement.
+2. **Academy-as-a-Service (AaaS):** When a hospital signs an AaaS contract, they receive **both** Nama's training operations **and** the Evidence Platform's digital infrastructure — one integrated package under the hospital's brand. The switching cost becomes massive because all staff profiles, competency data, CME history, and clinical patterns are in the system.
+3. **SHA Training Center Operator:** Positioned for SHA-accredited life support training (BLS, ACLS, PALS, NRP, HSFA, SALSO, STLS) — the highest-volume category, all tracked and credited via the Learning Passport on the Evidence Platform.
+4. **Cross-Group Revenue Creator:** CDI training feeds Integra RCM. MGA bundle CME feeds Nexus MGA. Research-trained physicians feed PubHelper. Welunion staff development. All tracked on the Evidence Platform.
 
-**Chess Player Role:** Nama Academy is the distribution piece. It doesn't produce knowledge (that's Waraqa) or measure outcomes (that's VBH Co) — it captures the physician network that all other pieces need to reach. Every physician trained is a future user, prescriber, researcher, and evidence consumer.
+**Chess Player Role:** Nama Academy is the human layer that **brings professionals into the system**. The Evidence Platform is the digital layer that **keeps them there forever**. Once inside, the professional never leaves — their entire career is tracked, developed, and monetized through the ecosystem. No competitor can replicate this because no competitor has both the training delivery AND the digital intelligence platform in one integrated system.
+
+> **See also:** `01-TKG/00-TKG-GROUP/WORKFORCE_INTEGRATION_LOGIC.md` — the complete integration architecture of Evidence Platform + Nama Academy as a unified workforce system.
 
 ---
 
@@ -21,79 +29,179 @@ Nama Academy is the **physician network acquisition engine** of the Theeb Ecosys
 
 | Moat Dimension | Detail | Replication Timeline |
 |---------------|--------|---------------------|
-| **SCFHS Accreditation** | Sole regulatory gateway for all Saudi healthcare CME | 2-3 years |
-| **Mandatory Demand** | 30 CME credits/year per licensed health professional — guaranteed recurring market | Structural (regulatory) |
-| **Clinician-Led Credibility** | Key leaders are practicing clinicians (e.g., GM leads Saudi Heart Association) | Relationship-dependent |
+| **SCFHS Accreditation** | Sole regulatory gateway for all Saudi healthcare CME | Structural (regulatory) |
+| **Mandatory Demand** | 30 CME credits/year × ~300,000 licensed health professionals = ~9M credits/year | Permanent market |
+| **Academy-as-a-Service** | Full turnkey academy under hospital brand — no competitor offers this | 1-2 years to copy model |
+| **SHA TC Capability** | 7 life support disciplines under one roof | 6-12 months accreditation |
+| **Clinician-Led Credibility** | Key leaders are practicing clinicians with peer-level society access | Relationship-dependent |
 | **Asset-Light Model** | Rents simulation centers (abundant, underutilized in KSA) — zero capex | Operational design |
-| **Cross-Group Bundle** | MGA malpractice + CME bundle (SAR 800-1,200/physician/year) — no competitor offers this | Ecosystem unique |
+| **Cross-Group Bundle** | MGA malpractice + CME bundle — ecosystem-unique product | Unreplicable |
+| **Ecosystem Distribution** | Every trainee = Evidence Platform user + PubHelper contributor + MGA subscriber | Structural |
 
 ---
 
-## 3. ECOSYSTEM INTERFACE
+## 3. THE 5-SERVICE ARCHITECTURE
 
-### 3A. INPUTS
+### Service 1: Academy-as-a-Service (AaaS)
 
-| Source Entity | Data/Resource Received |
-|--------------|----------------------|
-| Waraqa (TKG-01) | Clinical guidelines → CME curriculum content; revenue allocation ($300-500K/year) |
-| Evidence Platform (TKG-05) | Digital CME delivery infrastructure; SCFHS tracking integration |
-| TTG-CII | Updated curriculum from new evidence; AI-generated learning pathways |
-| Nexus MGA (TVG-02) | Revenue share from insurance bundle (CME fulfillment component) |
-| Scientific Societies | Expert faculty as instructors and curriculum developers |
+A complete turnkey engine that builds and operates training academies under the hospital's own brand.
 
-### 3B. OUTPUTS
+| Component | Nama Delivers |
+|-----------|---------------|
+| Licensing & Regulatory | SCFHS alignment, MOH compliance, CBAHI preparation |
+| LMS Platform | E-learning, assessments, digital certificates, competency mapping |
+| Trainers & Content | National pool of certified trainers, clinical instructors, content developers |
+| Operations | Scheduling, logistics, registration, exams, attendance, reporting |
+| Quality & Compliance | CME/CPD accreditation, quality audits, performance analytics |
+| Brand | Hospital owns the brand — Nama delivers everything behind the scenes |
 
-| Output | Recipient(s) | Intelligence Layer Impact |
-|--------|-------------|--------------------------|
-| 2,000+ trained physicians/year | Evidence Platform (TKG-05) | Zero-CAC user acquisition for knowledge platform |
-| Faculty network | Waraqa (TKG-01) | Peer reviewers and editorial board members |
-| CME fulfillment data | Nexus MGA (TVG-02) | Insurance bundle completion verification |
-| Trained clinical staff | Welunion (THDG) | Workforce quality for clinic operations |
-| CBAHI preparation | Welunion, hospital clients | Accreditation readiness |
-| Physician engagement data | CII (TTG) | Training patterns inform clinical intelligence models |
+### Service 2: National Faculty Platform
+
+Unified hub for trainers, clinicians, and experts. Centralized registration, onboarding, certification pathways, and quality assurance. Hospitals access expert faculty instantly without hiring.
+
+### Service 3: Developing & Operating Training Centers
+
+Transforms hospital training units into profitable, accredited centers. Full operational outsourcing, tendering, commercialization, trainer recruitment, and program design.
+
+### Service 4: University Bridging Programs
+
+Structured tracks preparing healthcare graduates for workforce roles: community pharmacy, clinical research, coding & CDI, insurance operations, digital health & AI, quality & patient safety, public health.
+
+### Service 5: Graduate Development Programs (HRDF/Tamheer)
+
+Bootcamps + rotations + job placement for fresh graduates. Government-subsidized via HRDF/Tamheer. Tracks across pharmacy, nursing, allied health, coding, insurance, lab, and digital health.
 
 ---
 
-## 4. 2026 READINESS PLAN
+## 4. SHA LIFE SUPPORT TRAINING CENTER
 
-### Window: Physician Network Lock-In + Societies (Primary)
+### 7 Disciplines
+
+| Discipline | Code | Target | Equipment (Key Items) |
+|-----------|------|--------|----------------------|
+| **Basic Life Support** | BLS | All healthcare workers | 4 adult + 4 child + 4 infant manikins w/ feedback, 2 AEDs, bag masks |
+| **Advanced Cardiac Life Support** | ACLS | Physicians, nurses, paramedics | + ECG simulator, monitor/defibrillator, crash cart, ALS manikin, IO drill |
+| **Pediatric Advanced Life Support** | PALS | Pediatric-facing staff | + Pediatric airway manikins, IO manikins, pediatric ALS mannequin |
+| **Neonatal Resuscitation Program** | NRP | Neonatal-facing staff | + Newborn manikins w/ intubation/UVC, radiant warmer |
+| **HeartSaver First Aid** | HSFA | Non-clinical, public | Basic CPR/AED and first aid |
+| **Saudi Advanced Life Support in Obstetrics** | SALSO | Obstetric-facing staff | + Obstetric simulation equipment |
+| **Saudi Trauma Life Support** | STLS | Trauma-facing staff | + Trauma simulation equipment |
+
+### SHA TC Accreditation Requirements
+
+| Requirement | SHA Specification | Nama Plan |
+|------------|------------------|-----------|
+| Training Rooms | Min. 2, lighted, ventilated, code-compliant | Rental model — hospital/partner simulation centers |
+| A/V Rooms | 2+ rooms with A/V and internet | Included in rental |
+| Primary Instructors | Min. 2 SHA-aligned per discipline | Faculty platform: 10+ across disciplines |
+| PCT Certification | TC Coordinator must hold PCT | Coordinator certified |
+| Senior Instructor | 21+, 8+ courses in 3 years | 2+ senior instructors per discipline |
+| Equipment Ownership | TC must own all manikins and equipment | Phased procurement plan |
+
+### Life Support Revenue Model
+
+| Course | Duration | Price/Participant | Rev/Course | Annual (4/week avg) |
+|--------|----------|------------------|-----------|-------------------|
+| BLS | 1 day | SAR 600-800 | SAR 7,200-9,600 | SAR 1.5-2M |
+| ACLS | 2 days | SAR 1,500-2,000 | SAR 15,000-20,000 | SAR 780K-1M |
+| PALS | 2 days | SAR 1,500-2,000 | SAR 15,000-20,000 | SAR 780K-1M |
+| NRP | 1-2 days | SAR 1,200-1,500 | SAR 12,000-15,000 | SAR 624K-780K |
+
+---
+
+## 5. CDI/DRG TRAINING PIPELINE (Cross-Group: TKG → TVG)
+
+AR-DRG requires every hospital to improve documentation. CDI is a new discipline in KSA — no established programs exist. Nama fills the vacuum.
+
+### CDI Training Catalog
+
+| Program | Duration | Target | Credits | Price |
+|---------|----------|--------|---------|-------|
+| CDI Fundamentals | 3 days | Nurses, coders | 15 | SAR 5,000 |
+| ICD-10-AM Coding for AR-DRG | 5 days | Medical coders | 25 | SAR 8,000 |
+| DRG Classification & Casemix | 3 days | Managers, coders | 15 | SAR 6,000 |
+| CDI Specialist Certification | 10 days | CDI specialists | 40 | SAR 15,000 |
+| Clinical Query Methodology | 2 days | Physicians, nurses | 10 | SAR 4,000 |
+| VBC Bundle Coding (7 CHI Programs) | 3 days | Coders, finance | 15 | SAR 6,000 |
+
+**TAM (285+ private hospitals):** SAR 50-100M+ for CDI education alone.
+
+### CDI Pipeline Flow
+
+```
+Nama Academy trains CDI specialists → Integra RCM deploys at client hospitals
+→ Coding accuracy improves → DRG optimization → Revenue recovery
+→ Gain-share revenue flows to TVG → More hospitals want CDI → More training
+→ [LOOP ACCELERATES]
+```
+
+---
+
+## 6. ECOSYSTEM INTERFACE — THE DISTRIBUTION WATERFALL
+
+Every physician trained triggers a cascade across the ecosystem:
+
+```
+PHYSICIAN COMPLETES NAMA ACADEMY TRAINING
+    │
+    ├──► EVIDENCE PLATFORM: Account activated ($0 CAC)
+    │    → Daily clinical decision support usage
+    │    → Questions captured → feeds PubHelper
+    │
+    ├──► PUBHELPER: Invited to submit clinical questions
+    │    → Becomes research co-author → deepens engagement
+    │
+    ├──► NEXUS MGA: Offered malpractice + CME bundle
+    │    → SAR 800-1,200/year recurring revenue
+    │
+    ├──► WELUNION: Trained staff for clinic network
+    │    → CBAHI preparation, CDM staff development
+    │
+    ├──► INTEGRA RCM: CDI specialists deployed at hospitals
+    │    → Gain-share revenue from improved coding
+    │
+    └──► SCIENTIFIC SOCIETIES: Faculty network deepened
+         → Peer reviewers, editorial boards, PIs
+```
+
+---
+
+## 7. 2026 READINESS PLAN
 
 | Task | Timeline | Target |
 |------|----------|--------|
-| Integrate Evidence Platform accounts into all training programs | Month 3 | Every trainee gets platform access |
-| Launch MGA malpractice + CME bundle with Nexus MGA | Q2-Q3 2026 | SAR 800-1,200/physician product live |
-| Co-organize conferences with 3+ societies | Q1-Q3 2026 | Faculty network activation |
-| Train 1,000+ physicians (H2 target) | H2 2026 | 1,000 Evidence Platform users generated |
-| HRDF/Tamheer workforce program enrollment | Q1 2026 | Government subsidy secured |
-
-### Support for Other Windows
-
-| 2026 Window | Nama Academy Contribution |
-|-------------|--------------------------|
-| AR-DRG | CDI training programs for hospital coding staff |
-| PHC Privatization | Staff training for Welunion's expanding clinic network |
-| Insurer Crisis | CME component of malpractice insurance product (drives bundle sales) |
+| SHA TC accreditation application | Q1 2026 | Application submitted |
+| BLS/ACLS instructor alignment (4+) | Q1 2026 | Faculty active |
+| CDI training launch (first 3 hospital cohorts) | Q1 2026 | CDI pipeline operational |
+| AaaS pilot (first hospital) | Q2 2026 | Turnkey academy live |
+| Evidence Platform integration (every trainee gets account) | Q1 2026 | Distribution channel active |
+| Dr. Arwa onboarded (Program Development Consultant) | Active | Curriculum underway |
+| HRDF/Tamheer enrollment | Q1 2026 | Government subsidy secured |
+| SHA TC accreditation achieved (BLS + ACLS) | Q3 2026 | First SHA courses delivered |
+| MGA malpractice + CME bundle launch | Q3 2026 | Bundle sales begin |
+| University bridging (2 partnerships) | Q3-Q4 2026 | Graduate programs active |
+| PubHelper integration | Q4 2026 | Trained physicians submit questions |
+| 1,000+ physicians trained (cumulative) | Q4 2026 | 1,000 Evidence Platform users |
 
 ---
 
-## 5. FINANCIAL LOGIC
+## 8. FINANCIAL LOGIC
 
-| Metric | Year 1 | Year 5 |
-|--------|--------|--------|
-| Revenue | $1.5M | $28.0M |
-| EBITDA Margin at Scale | — | 46% |
-| Headcount | 10 | 60 |
-| Physicians trained/year | 500+ | 5,000+ |
+### Revenue Architecture
 
-**Revenue Types:** B2B institutional contracts, B2C professional subscriptions, pharma-sponsored education, government programs (HRDF/Tamheer), MGA insurance bundle revenue share
+| Stream | Year 1 | Year 3 | Year 5 | Margin |
+|--------|--------|--------|--------|--------|
+| SHA Life Support | SAR 1.5M | SAR 5M | SAR 12M | 55-65% |
+| Academy-as-a-Service | SAR 400K | SAR 3M | SAR 10M | 40-50% |
+| CDI/DRG Training | SAR 500K | SAR 4M | SAR 8M | 60-70% |
+| Graduate Development | SAR 300K | SAR 2M | SAR 5M | 35-45% |
+| University Bridging | SAR 100K | SAR 1.5M | SAR 4M | 45-55% |
+| MGA Bundle Revenue Share | SAR 80K | SAR 800K | SAR 3M | 90%+ |
+| **TOTAL** | **SAR 2.88M** | **SAR 16.3M** | **SAR 42M** | — |
 
-**Contribution to Group EBITDA:**
-- **Direct:** $28M Y5 at 46% margin = ~$12.9M EBITDA
-- **Platform value:** Every 2,000 physicians trained = 2,000 Evidence Platform users at $0 CAC — this distribution asset has exponential value
-- **Bundle economics:** MGA insurance bundle creates recurring per-physician revenue stream
+### EBITDA: 10-15% (Y1) → 40% (Y3) → 46% (Y5)
 
-### Funding Model (Zero External Capital)
-Nama Academy is funded by **Waraqa revenue allocation** ($300-500K/year) — no external equity required. 100% ownership retained.
+### Funding: Waraqa revenue allocation (SAR 1.1-1.9M/year) — zero external equity. 100% ownership retained.
 
 ---
 
@@ -102,9 +210,11 @@ Nama Academy is funded by **Waraqa revenue allocation** ($300-500K/year) — no 
 | Document | Location |
 |----------|----------|
 | Master Reference File | `GOVERNANCE/MASTER_FILES/03-NAMA-ACADEMY-MASTER_REF.md` |
-| V2 Framework | `GOVERNANCE/THEEB_ECOSYSTEM_V2_2026.md` |
-| Chess Player Deck (Slide 5, 10) | `00-TAK-ROOT/2026-STRATEGIC-PITCH/THE_CHESS_PLAYER_DECK_CONTENT.md` |
+| Integra RCM CDI Pipeline | `02-TVG/01-TVG-Integra-RCM/MASTER_STRATEGY_REF.md` |
+| PubHelper Integration | `01-TKG/06-TKG-PubHelper/MASTER_STRATEGY_REF.md` |
+| TKG Flywheel Logic | `01-TKG/00-TKG-GROUP/GROUP_FLYWHEEL_LOGIC.md` |
 
 ---
 
+*Source: SHA Policy, SHA TC Requirements 2025, Academy Proposal, Company Profile, Consulting Offer*
 *Aligned to: THEEB_ECOSYSTEM_V2_2026.md | Chess Player Framework*

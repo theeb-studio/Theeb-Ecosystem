@@ -7,13 +7,17 @@
 
 ## 1. STRATEGIC MISSION
 
-The Evidence Platform is the **sovereign digital knowledge infrastructure** of the Theeb Ecosystem — the technology layer that transforms all TKG content production into a scalable, AI-powered clinical decision support system. In the 2026 logic:
+The Evidence Platform is the **digital backbone of Saudi healthcare workforce capability** — not just a clinical decision support tool, but the integrated system where clinical evidence, CME delivery, competency tracking, and workforce intelligence converge into one continuous professional experience. In the 2026 logic:
 
 1. **MNC Decision Engine:** Transforms CHI's 70 Medical Necessity Criteria from static PDFs into an interactive 3-tier clinical workflow tool — the single most valuable regulatory integration in Saudi healthcare.
 2. **Knowledge Graph Compound Effect:** 16,290+ nodes growing to 250,000+ — an evidence corpus that becomes more valuable and harder to replicate with every publication, trial, and clinical interaction.
-3. **Zero-CAC Distribution Recipient:** Receives 2,000+ physician users/year from Nama Academy training programs at $0 acquisition cost — the most capital-efficient SaaS growth model in healthcare.
+3. **Unified Workforce Backbone (with Nama Academy):** The Evidence Platform IS the digital layer that integrates all healthcare professionals into the Theeb workforce capability system. Nama Academy provides the human training layer; the Evidence Platform provides the digital backbone. Together they form a single system that every healthcare professional lives inside — from first training day to last clinical decision.
+4. **Learning Passport:** Personalized CME tracking, competency mapping, learning pathway recommendations, and SCFHS credit sync for every healthcare professional — automating the 30-credit/year mandate.
+5. **Zero-CAC Distribution:** Receives 2,000+ physician users/year from Nama Academy at $0 CAC — but the real model is deeper: once inside, professionals never leave (30-40 year career engagement).
 
-**Chess Player Role:** The Evidence Platform is the digital distribution square — the piece that takes everything the Knowledge Group produces (journals, guidelines, trials, CME) and makes it accessible at the point of care. It is also the connective tissue between TKG's content and TTG's intelligence.
+**Chess Player Role:** The Evidence Platform is not just the digital distribution square — it is the **central nervous system of workforce capability**. It takes everything TKG produces (journals, guidelines, trials, CME), everything Nama Academy delivers (courses, certifications, competency assessments), and everything the professional does (clinical decisions, research questions, learning patterns) and integrates them into one unified experience. This is the connective tissue between TKG content, TTG intelligence, and the 300,000+ healthcare professionals who need both.
+
+> **See also:** `01-TKG/00-TKG-GROUP/WORKFORCE_INTEGRATION_LOGIC.md` — the complete integration architecture of Evidence Platform + Nama Academy as a unified workforce system.
 
 ---
 
