@@ -189,7 +189,17 @@
       "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/Flyer final \\(1\\).pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/01-Strategy/TKG-CRO-STR-Services-Flyer.pdf\")",
       "Bash(explorer \"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\05-SHARED\\\\Brand-Assets\")",
       "Bash(start \"\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/05-SHARED/Brand-Assets\")",
-      "Bash(find 'C:/Users/د. ذيب/Downloads' -name *SCFHS* -o -name *society* -o -name *جمعي* -o -name *societies*)"
+      "Bash(find 'C:/Users/د. ذيب/Downloads' -name *SCFHS* -o -name *society* -o -name *جمعي* -o -name *societies*)",
+      "Bash(where node:*)",
+      "Bash(where node.exe)",
+      "Bash(ls /c/Program*/nodejs/node.exe)",
+      "Bash(ls /c/Users/*/AppData/Roaming/nvm/*/node.exe)",
+      "Bash(cmd //c \"where node\")",
+      "Bash(PATH=\"$PATH:/c/Program Files/nodejs\" node --version)",
+      "Read(//c//**)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" -m pip install python-docx -q)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\":*)",
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/05-SHARED/Brand-Assets/create_proposals.py\")"
     ]
   }
 }
