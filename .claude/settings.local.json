@@ -186,7 +186,9 @@
       "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/Pitch-NAMA CRO-V.3 \\(1\\).pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/06-Pitch-Decks/TKG-CRO-PIT-Pitch-Deck-v3.pdf\")",
       "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/Milestone Agreement Schedule - NAMA CRO _26JAN26 \\(1\\).pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/03-Finance/TKG-CRO-FIN-Milestone-Agreement-26JAN26.pdf\")",
       "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/NAMA CTU Brochure.pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/01-Strategy/TKG-CRO-STR-CTU-Brochure.pdf\")",
-      "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/Flyer final \\(1\\).pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/01-Strategy/TKG-CRO-STR-Services-Flyer.pdf\")"
+      "Bash(cp \"C:/Users/د. ذيب/Dropbox/Server/NAMA CRO/Archives/Flyer final \\(1\\).pdf\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/02-TKG-Nama-CRO/01-Strategy/TKG-CRO-STR-Services-Flyer.pdf\")",
+      "Bash(explorer \"C:\\\\Users\\\\د. ذيب\\\\Desktop\\\\Theeb-Ecosystem\\\\05-SHARED\\\\Brand-Assets\")",
+      "Bash(start \"\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/05-SHARED/Brand-Assets\")"
     ]
   }
 }
