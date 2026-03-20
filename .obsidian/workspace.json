@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-SHARED/Brand-Assets/PHYSICIAN_LEADER_BROCHURE_CONTENT.md",
+                "file": "01-TKG/05-TKG-Evidence-Platform/_INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHYSICIAN_LEADER_BROCHURE_CONTENT"
+              "title": "_INDEX"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "074f409556507e1e",
   "lastOpenFiles": [
-    "05-SHARED/Brand-Assets/SCIENTIFIC_SOCIETY_BROCHURE_CONTENT.md",
     "05-SHARED/Brand-Assets/PHYSICIAN_LEADER_BROCHURE_CONTENT.md",
+    "05-SHARED/Brand-Assets/SCIENTIFIC_SOCIETY_BROCHURE_CONTENT.md",
     "05-SHARED/Brand-Assets/SCIENTIFIC_SOCIETY_PARTNERSHIP_PROPOSAL.docx",
     "05-SHARED/Brand-Assets/PHYSICIAN_LEADER_PARTNERSHIP_PROPOSAL.docx",
     "05-SHARED/Brand-Assets/create_proposals.py",
