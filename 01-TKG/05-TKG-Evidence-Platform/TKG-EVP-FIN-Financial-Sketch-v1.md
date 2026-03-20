@@ -9,6 +9,16 @@
 
 ---
 
+## Status: Launching Within 1 Month
+
+- Platform built with Deep Evidence co-founders
+- Deep Evidence = AI-powered medical evidence retrieval (PubMed + Embase)
+- Knowledge Graph: 16,290 nodes, 31,913 edges (live)
+- Arabic NLP layer ready
+- TAM: 300,000+ Saudi healthcare professionals
+
+---
+
 ## Strategy: Free Platform, Indirect Revenue
 
 The Evidence Platform is **free to all 300,000+ Saudi healthcare professionals**.
@@ -63,6 +73,7 @@ Revenue comes from institutions and companies who benefit from the platform's re
 - Grant funding covers Year 1-2 gap before institutional revenue scales
 - Knowledge graph grows via automated pipeline (PubHelper → Waraqa → Evidence Platform)
 - Zero customer acquisition cost: Nama Academy feeds 2,000+ users/year
+- Deep Evidence co-founders handle core AI/search engine — reduces build cost
 
 ---
 
