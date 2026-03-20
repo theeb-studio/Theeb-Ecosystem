@@ -202,7 +202,9 @@
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/05-SHARED/Brand-Assets/create_proposals.py\")",
       "WebFetch(domain:oliverzolman.com)",
       "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/00-TKG-GROUP/build_financial_model.py\")",
-      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/00-TKG-GROUP/build_detailed_pnl.py\")"
+      "Bash(\"/c/Users/د. ذيب/AppData/Local/Programs/Python/Python312/python.exe\" \"C:/Users/د. ذيب/Desktop/Theeb-Ecosystem/01-TKG/00-TKG-GROUP/build_detailed_pnl.py\")",
+      "WebFetch(domain:fv.academy)",
+      "WebFetch(domain:www.saudiexchange.sa)"
     ]
   }
 }
