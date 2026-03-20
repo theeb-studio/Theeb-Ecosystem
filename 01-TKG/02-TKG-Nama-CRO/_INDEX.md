@@ -23,6 +23,11 @@ Strategy, pitch decks, financial models, research frameworks.
 - `Information Technology/` — IT systems
 - `Legal Files/` — contracts, licenses, SOPs
 
+## Ownership & Funding Status
+- **Ownership:** 100% Founder
+- **Investment discussion:** $5M tranche-based deployment under negotiation (Alfaisaliah) — **not closed, no commitment**
+- **Milestone Agreement (03-Finance/):** Draft document — reflects proposed terms, not signed agreement
+
 ## Key Capabilities
 - Clinical trial design and management (Phase I–IV)
 - Real-World Data / Real-World Evidence (RWD/RWE)

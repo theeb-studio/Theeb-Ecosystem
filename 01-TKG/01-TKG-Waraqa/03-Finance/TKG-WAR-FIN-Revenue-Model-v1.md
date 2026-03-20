@@ -10,6 +10,21 @@
 
 ---
 
+## 0. 2025 ACTUALS — PROOF OF EXECUTION
+
+| Metric | 2025 Actual |
+|--------|-------------|
+| Revenue | SAR 1,300,000 |
+| Profit | SAR 700,000 |
+| Profit Margin | **54%** |
+| Ownership | 100% Founder |
+| External Equity | None |
+
+> Waraqa is the only revenue-generating, profitable entity in TKG today.
+> All forward projections below build on this proven base.
+
+---
+
 ## 1. REVENUE ARCHITECTURE
 
 Waraqa generates revenue through **six streams**, each tied to a different product line and partner type. No single stream dominates — the model is designed for diversification.
