@@ -5,3 +5,4 @@
 # Smart Composer local databases (large binaries, local state)
 .smtcmp_vector_db.tar.gz
 .smtcmp_json_db/
+.claude/worktrees/
